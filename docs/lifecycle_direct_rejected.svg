@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="420" viewBox="0 0 1120 420">
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#516070"/>
+</marker>
+</defs>
+<rect width="1120" height="420" fill="#f7f8fb"/>
+<text x="34" y="40" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#172033">Direct Rejection Lifecycle</text>
+<text x="34" y="66" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="400" fill="#556070">Time flows left to right. Labels show the source table and field used in EDA.</text>
+<line x1="70" y1="330" x2="1030" y2="330" stroke="#8994a3" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="1010" y="356" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#556070">time</text>
+<rect x="50" y="120" width="250" height="130" rx="8" fill="#e9f2ff" stroke="#243047" stroke-width="1.2"/>
+<text x="64" y="145" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Customer record</text>
+<text x="64" y="168" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">export_customers.customer_id</text>
+<text x="64" y="186" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">export_customers.created</text>
+<text x="64" y="204" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">profile / demographics</text>
+<rect x="365" y="120" width="260" height="130" rx="8" fill="#fff4df" stroke="#243047" stroke-width="1.2"/>
+<text x="379" y="145" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Application submitted</text>
+<text x="379" y="168" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">export_credits_rejected.created</text>
+<text x="379" y="186" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">amount / period / charge</text>
+<text x="379" y="204" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">customer_id links to customer</text>
+<rect x="690" y="120" width="290" height="130" rx="8" fill="#ffe7e7" stroke="#243047" stroke-width="1.2"/>
+<text x="704" y="145" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Rejected decision</text>
+<text x="704" y="168" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">export_credits_rejected.rejection_date</text>
+<text x="704" y="186" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">export_credits_rejected.reason</text>
+<text x="704" y="204" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">no matching issued credit required</text>
+<rect x="690" y="275" width="290" height="82" rx="8" fill="#edf7ed" stroke="#243047" stroke-width="1.2"/>
+<text x="704" y="300" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">EDA classification</text>
+<text x="704" y="323" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">rejected rows &gt; 0</text>
+<text x="704" y="341" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">issued credits = 0 for customer_id</text>
+<line x1="300" y1="185" x2="365" y2="185" stroke="#516070" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="625" y1="185" x2="690" y2="185" stroke="#516070" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="835" y1="250" x2="835" y2="275" stroke="#516070" stroke-width="2" marker-end="url(#arrow)" stroke-dasharray="6 5"/>
+</svg>

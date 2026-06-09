@@ -1,0 +1,1819 @@
+"credit_id","customer_id","split","actual","predicted","Clean Paid Off","Paid Off After Delinquency","Written Off","Sold","Other Terminal / Special Closure"
+110155,45724,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.7475,0,0.2375,0
+110477,45836,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.085,0.895,0.005,0.015,0
+110588,45873,"test","Paid Off After Delinquency","Clean Paid Off",0.555,0.4025,0.0075,0.035,0
+110734,45927,"test","Sold","Sold",0,0.255,0,0.745,0
+110785,45941,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.9125,0,0.075,0
+110849,45876,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.055,0.945,0,0,0
+110957,46000,"test","Clean Paid Off","Paid Off After Delinquency",0.3325,0.65,0.0025,0.015,0
+111030,46019,"test","Paid Off After Delinquency","Clean Paid Off",0.8025,0.1775,0.005,0.015,0
+111107,46025,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.945,0.0025,0.05,0
+111158,46044,"test","Sold","Paid Off After Delinquency",0.3,0.66,0,0.04,0
+111217,46075,"test","Paid Off After Delinquency","Clean Paid Off",0.52,0.455,0.0075,0.0175,0
+111235,46084,"test","Clean Paid Off","Clean Paid Off",0.57,0.4125,0.0025,0.015,0
+111522,46165,"test","Clean Paid Off","Clean Paid Off",0.625,0.35,0.0075,0.0175,0
+111634,46197,"test","Clean Paid Off","Clean Paid Off",0.68,0.2825,0.0075,0.03,0
+111666,46220,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3875,0.5025,0.0025,0.1075,0
+111704,45757,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.9475,0,0.0475,0
+111259,46089,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.7775,0,0.2175,0
+111736,46243,"test","Sold","Sold",0.005,0.1475,0,0.8475,0
+111711,46175,"test","Sold","Paid Off After Delinquency",0.125,0.67,0,0.205,0
+112035,45782,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.32,0.67,0,0.01,0
+112020,46353,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.9775,0.0025,0.01,0
+112260,46446,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9625,0.0025,0.0325,0
+112475,46515,"test","Clean Paid Off","Clean Paid Off",0.68,0.315,0.0025,0.0025,0
+112516,46540,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2975,0.6375,0,0.065,0
+112508,46535,"test","Clean Paid Off","Clean Paid Off",0.6,0.4,0,0,0
+112536,46506,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.975,0.0025,0.02,0
+112549,46543,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0325,0.955,0.0025,0.01,0
+112578,46107,"test","Clean Paid Off","Paid Off After Delinquency",0.27,0.72,0,0.01,0
+112612,46577,"test","Clean Paid Off","Clean Paid Off",0.85,0.15,0,0,0
+112630,46582,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.605,0,0.39,0
+112735,46619,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.045,0.95,0,0.005,0
+112875,46690,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9675,0.0075,0.0175,0
+113007,46741,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4275,0.5675,0,0.005,0
+113003,46710,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.9675,0,0.0325,0
+113006,46744,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3525,0.6375,0,0.01,0
+113073,46764,"test","Paid Off After Delinquency","Clean Paid Off",0.5175,0.4775,0,0.005,0
+113140,46786,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.465,0.53,0,0.005,0
+113411,46872,"test","Clean Paid Off","Clean Paid Off",0.6625,0.3325,0,0.005,0
+113565,46926,"test","Paid Off After Delinquency","Sold",0,0.305,0,0.695,0
+113598,46943,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.19,0.8075,0,0.0025,0
+113603,46934,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.9225,0.0475,0.02,0
+113705,46982,"test","Clean Paid Off","Paid Off After Delinquency",0.45,0.5275,0,0.0225,0
+113715,46986,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3,0.6875,0.0025,0.01,0
+113915,47080,"test","Sold","Paid Off After Delinquency",0.0025,0.585,0.0025,0.41,0
+113895,47065,"test","Paid Off After Delinquency","Clean Paid Off",0.5325,0.4575,0.005,0.005,0
+111343,46078,"test","Sold","Clean Paid Off",0.445,0.29,0.005,0.26,0
+114129,47096,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9725,0.0025,0.0175,0
+114306,47235,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9,0.0275,0.07,0
+114438,47133,"test","Paid Off After Delinquency","Sold",0,0.385,0.005,0.61,0
+114679,47366,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0375,0.5975,0,0.365,0
+114850,46701,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.53,0,0.465,0.0025
+114906,47441,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.375,0.6175,0,0.0075,0
+114977,47229,"test","Sold","Sold",0,0.2475,0.005,0.7475,0
+115083,47443,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1125,0.8875,0,0,0
+115128,47510,"test","Paid Off After Delinquency","Clean Paid Off",0.6525,0.345,0,0.0025,0
+115173,47519,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.8275,0.0225,0.15,0
+115315,47566,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.955,0.0025,0.0275,0
+115335,47514,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.055,0.93,0.01,0.005,0
+115567,47645,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.97,0.005,0.025,0
+115596,47653,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3625,0.59,0.0025,0.045,0
+115682,45726,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.9825,0.0025,0.0025,0
+115701,46934,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0475,0.91,0,0.0425,0
+115754,46300,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1,0.895,0,0.005,0
+115838,47606,"test","Paid Off After Delinquency","Clean Paid Off",0.625,0.2875,0.01,0.0775,0
+115857,47035,"test","Clean Paid Off","Clean Paid Off",0.5425,0.45,0.0025,0.005,0
+115863,47735,"test","Paid Off After Delinquency","Sold",0.035,0.4625,0.0025,0.5,0
+115918,47748,"test","Paid Off After Delinquency","Clean Paid Off",0.4475,0.42,0,0.1325,0
+116131,47453,"test","Paid Off After Delinquency","Clean Paid Off",0.665,0.3325,0,0.0025,0
+116141,47819,"test","Sold","Paid Off After Delinquency",0,0.6875,0,0.3125,0
+116155,47829,"test","Paid Off After Delinquency","Sold",0,0.42,0,0.58,0
+116163,47080,"test","Sold","Paid Off After Delinquency",0.0175,0.8375,0,0.145,0
+116263,47866,"test","Sold","Paid Off After Delinquency",0.0975,0.8,0,0.1025,0
+116332,47892,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.7325,0.005,0.25,0
+116365,47795,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.03,0.955,0,0.015,0
+116428,47881,"test","Clean Paid Off","Clean Paid Off",0.545,0.425,0.0025,0.0275,0
+116457,47934,"test","Sold","Sold",0.0025,0.3575,0,0.64,0
+116497,47944,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3575,0.605,0,0.0375,0
+116800,48006,"test","Written Off","Paid Off After Delinquency",0.38,0.5225,0.09,0.0075,0
+116966,46430,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.9875,0,0.0025,0
+116984,48057,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4425,0.545,0,0.0125,0
+117043,47859,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.98,0,0.0075,0
+117093,48080,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.415,0.525,0.0075,0.0525,0
+117144,46875,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0625,0.93,0,0.0075,0
+117266,45939,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3675,0.5925,0,0.04,0
+117308,48141,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0775,0.885,0.01,0.0275,0
+117434,48187,"test","Sold","Paid Off After Delinquency",0.3325,0.4825,0.0025,0.1825,0
+117560,48193,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.5325,0.0125,0.45,0
+117564,46945,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.42,0.5675,0,0.0125,0
+117597,48153,"test","Paid Off After Delinquency","Clean Paid Off",0.555,0.4375,0,0.0075,0
+117666,48236,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.96,0.0025,0.025,0
+117667,47962,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.9675,0,0.0325,0
+117703,48256,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9375,0.0075,0.0525,0
+117700,48255,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.28,0.41,0,0.31,0
+117899,46928,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.965,0,0.025,0
+117910,48312,"test","Clean Paid Off","Clean Paid Off",0.52,0.4,0,0.08,0
+117927,48322,"test","Sold","Paid Off After Delinquency",0.1975,0.4575,0.01,0.335,0
+117935,48327,"test","Sold","Paid Off After Delinquency",0,0.53,0,0.47,0
+118047,48360,"test","Clean Paid Off","Clean Paid Off",0.545,0.4525,0,0.0025,0
+118193,48401,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.93,0.0025,0.0675,0
+118194,48404,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.495,0.5025,0,0.0025,0
+118281,47081,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0725,0.9225,0,0.005,0
+118326,47889,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.9775,0,0.0125,0
+118420,48479,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.935,0.0025,0.0625,0
+118347,48374,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.605,0,0.395,0
+118477,48495,"test","Written Off","Paid Off After Delinquency",0.03,0.8275,0.0725,0.07,0
+118604,48533,"test","Clean Paid Off","Paid Off After Delinquency",0.46,0.515,0.005,0.02,0
+118583,48526,"test","Clean Paid Off","Paid Off After Delinquency",0.4175,0.5825,0,0,0
+118694,48306,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2175,0.775,0.0025,0.005,0
+118768,48573,"test","Clean Paid Off","Clean Paid Off",0.71,0.29,0,0,0
+118790,48576,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.375,0.575,0.0125,0.0375,0
+118856,48598,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.075,0.92,0,0.005,0
+118915,47342,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1325,0.865,0,0.0025,0
+118926,48622,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.9275,0,0.0675,0
+119069,48661,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4025,0.5925,0,0.005,0
+119077,48666,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.975,0.0025,0.01,0
+119104,48678,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.09,0.7375,0,0.1725,0
+119120,47178,"test","Clean Paid Off","Paid Off After Delinquency",0.49,0.5075,0,0.0025,0
+119272,47121,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.5175,0.005,0.4725,0
+115016,47474,"test","Paid Off After Delinquency","Clean Paid Off",0.7325,0.255,0.0025,0.01,0
+119370,48741,"test","Sold","Paid Off After Delinquency",0.0125,0.615,0.0125,0.36,0
+119440,47520,"test","Clean Paid Off","Paid Off After Delinquency",0.3975,0.5775,0.005,0.02,0
+119530,48795,"test","Clean Paid Off","Paid Off After Delinquency",0.4575,0.54,0,0.0025,0
+119655,48832,"test","Clean Paid Off","Clean Paid Off",0.765,0.2175,0,0.0175,0
+119637,48835,"test","Clean Paid Off","Clean Paid Off",0.645,0.3525,0,0.0025,0
+119679,48849,"test","Paid Off After Delinquency","Clean Paid Off",0.5175,0.4175,0,0.065,0
+119701,48797,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.03,0.965,0,0.005,0
+119737,48858,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.035,0.9475,0,0.0175,0
+119800,46039,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0225,0.8775,0,0.1,0
+119815,48886,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.835,0,0.1575,0
+119957,48915,"test","Clean Paid Off","Clean Paid Off",0.61,0.39,0,0,0
+120034,46284,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0525,0.94,0,0.0075,0
+120035,48099,"test","Sold","Paid Off After Delinquency",0.01,0.8075,0,0.1825,0
+120065,46498,"test","Clean Paid Off","Clean Paid Off",0.7975,0.2025,0,0,0
+120080,48943,"test","Clean Paid Off","Clean Paid Off",0.615,0.355,0.0175,0.0125,0
+120209,48898,"test","Clean Paid Off","Paid Off After Delinquency",0.3125,0.685,0,0.0025,0
+120215,48966,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.9675,0.0025,0.0175,0
+120213,48961,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9625,0,0.035,0
+120375,47811,"test","Clean Paid Off","Paid Off After Delinquency",0.4825,0.505,0,0.0125,0
+120459,48946,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9525,0,0.04,0
+120530,48949,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.52,0,0.4725,0
+120566,46535,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.06,0.9375,0,0.0025,0
+120572,49038,"test","Sold","Paid Off After Delinquency",0.0125,0.57,0.1075,0.31,0
+120690,48142,"test","Paid Off After Delinquency","Clean Paid Off",0.6975,0.2975,0,0.005,0
+120756,48282,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.33,0.44,0.0025,0.2275,0
+120978,49132,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2725,0.67,0.0075,0.05,0
+121150,45739,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0575,0.935,0.0025,0.005,0
+121156,49186,"test","Paid Off After Delinquency","Sold",0.0025,0.4275,0.0025,0.5675,0
+121157,49185,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.5675,0,0.43,0
+121242,47804,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.53,0.0625,0.4075,0
+121221,49189,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0425,0.8075,0,0.15,0
+121268,49206,"test","Paid Off After Delinquency","Sold",0.2575,0.2625,0.0125,0.4675,0
+121338,45818,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.635,0,0.3525,0
+121337,49097,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.035,0.91,0,0.055,0
+121495,49207,"test","Paid Off After Delinquency","Clean Paid Off",0.855,0.1375,0.0025,0.005,0
+121509,49270,"test","Clean Paid Off","Clean Paid Off",0.62,0.3775,0,0.0025,0
+121773,49333,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.9525,0.0025,0.045,0
+121806,48283,"test","Clean Paid Off","Clean Paid Off",0.745,0.2525,0,0.0025,0
+121874,49367,"test","Clean Paid Off","Clean Paid Off",0.5375,0.46,0,0.0025,0
+121966,47044,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.12,0.8725,0,0.0075,0
+121950,49395,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0675,0.9325,0,0,0
+121943,46821,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.03,0.9575,0.0025,0.01,0
+121981,49406,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.96,0,0.025,0
+121958,49399,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3475,0.65,0,0.0025,0
+122300,49042,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0625,0.9325,0,0.005,0
+122312,46415,"test","Paid Off After Delinquency","Clean Paid Off",0.515,0.45,0.0125,0.0225,0
+122334,49506,"test","Clean Paid Off","Paid Off After Delinquency",0.2875,0.58,0.005,0.1275,0
+122347,49513,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.9475,0,0.0475,0
+122402,48973,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.99,0,0.005,0
+122418,49542,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.9475,0,0.0475,0
+122437,49545,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.96,0.0075,0.015,0
+122546,49579,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.085,0.885,0,0.03,0
+122572,49583,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9425,0.005,0.05,0
+122587,47889,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.98,0,0.005,0
+122617,49602,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.95,0.0025,0.045,0
+122862,49309,"test","Sold","Sold",0.0025,0.4725,0.0025,0.5225,0
+122886,48719,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.6525,0,0.33,0
+123030,49665,"test","Clean Paid Off","Paid Off After Delinquency",0.385,0.5875,0.01,0.0175,0
+123073,47496,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9275,0.0075,0.0625,0
+123193,49710,"test","Clean Paid Off","Clean Paid Off",0.6875,0.2825,0.01,0.0175,0.0025
+123253,49723,"test","Clean Paid Off","Clean Paid Off",0.5875,0.3925,0.01,0.01,0
+123327,49744,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0875,0.895,0.0075,0.01,0
+123494,49784,"test","Clean Paid Off","Clean Paid Off",0.755,0.235,0.0025,0.0075,0
+123521,49239,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.9025,0.025,0.06,0
+123533,49695,"test","Paid Off After Delinquency","Clean Paid Off",0.5275,0.47,0,0.0025,0
+123538,49796,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.215,0.78,0,0.005,0
+123602,49736,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.13,0.8675,0,0.0025,0
+123587,46502,"test","Clean Paid Off","Clean Paid Off",0.625,0.3675,0,0.0075,0
+123620,46499,"test","Clean Paid Off","Clean Paid Off",0.7,0.3,0,0,0
+123770,47464,"test","Clean Paid Off","Paid Off After Delinquency",0.3725,0.6225,0,0.005,0
+123852,49867,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.39,0.5725,0.0125,0.025,0
+123995,49860,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.76,0.0025,0.22,0
+124101,49954,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.03,0.955,0.005,0.01,0
+124153,49291,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4275,0.555,0.005,0.0125,0
+124157,49958,"test","Clean Paid Off","Clean Paid Off",0.6575,0.3425,0,0,0
+124168,49490,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9875,0,0.005,0
+124305,50018,"test","Clean Paid Off","Clean Paid Off",0.6675,0.3325,0,0,0
+124275,50005,"test","Clean Paid Off","Clean Paid Off",0.5925,0.4075,0,0,0
+124441,50043,"test","Clean Paid Off","Clean Paid Off",0.435,0.345,0.0125,0.2075,0
+124455,49497,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.425,0.5025,0,0.0725,0
+124528,50086,"test","Clean Paid Off","Clean Paid Off",0.6425,0.3575,0,0,0
+124606,50104,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.305,0.6675,0,0.0275,0
+124708,50119,"test","Clean Paid Off","Clean Paid Off",0.5975,0.4025,0,0,0
+124723,50136,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.9575,0,0.0375,0
+124796,46386,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.925,0.0075,0.065,0
+124853,50145,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.5175,0,0.4825,0
+124901,50192,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.95,0.0025,0.0475,0
+124912,47309,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.085,0.91,0.0025,0.0025,0
+125048,50234,"test","Clean Paid Off","Clean Paid Off",0.585,0.415,0,0,0
+125040,50239,"test","Clean Paid Off","Clean Paid Off",0.6175,0.3825,0,0,0
+125155,48653,"test","Paid Off After Delinquency","Clean Paid Off",0.51,0.49,0,0,0
+125191,50279,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.125,0.8275,0,0.0475,0
+125283,49236,"test","Clean Paid Off","Clean Paid Off",0.77,0.23,0,0,0
+125330,50209,"test","Paid Off After Delinquency","Clean Paid Off",0.5,0.4925,0.0025,0.005,0
+125680,50412,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.25,0.73,0.005,0.015,0
+125862,48739,"test","Paid Off After Delinquency","Clean Paid Off",0.505,0.49,0,0.005,0
+125929,50506,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.6075,0,0.39,0
+125930,49650,"test","Clean Paid Off","Clean Paid Off",0.7075,0.2925,0,0,0
+125091,46001,"test","Clean Paid Off","Paid Off After Delinquency",0.465,0.5,0.01,0.025,0
+125950,50514,"test","Paid Off After Delinquency","Clean Paid Off",0.535,0.3575,0.0025,0.105,0
+125857,50479,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.055,0.935,0,0.01,0
+126017,50147,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.045,0.9175,0.0075,0.03,0
+126104,49042,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.9775,0,0.0025,0
+126151,50583,"test","Clean Paid Off","Paid Off After Delinquency",0.405,0.5725,0.005,0.0175,0
+126208,48219,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9575,0,0.04,0
+126303,48906,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0625,0.9375,0,0,0
+126371,50653,"test","Clean Paid Off","Clean Paid Off",0.775,0.22,0.0025,0.0025,0
+126451,49529,"test","Clean Paid Off","Clean Paid Off",0.64,0.325,0,0.035,0
+126527,50704,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.365,0.625,0,0.01,0
+126619,49025,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.075,0.915,0.0075,0.0025,0
+126645,50741,"test","Paid Off After Delinquency","Clean Paid Off",0.4825,0.4675,0.0125,0.0375,0
+126654,49420,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.075,0.9225,0,0.0025,0
+126666,46167,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.05,0.8825,0.025,0.0425,0
+126722,49675,"test","Paid Off After Delinquency","Clean Paid Off",0.5425,0.455,0,0.0025,0
+126835,50764,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.945,0,0.05,0
+126887,49620,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0475,0.945,0.0025,0.005,0
+126978,47257,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.7075,0,0.29,0
+126985,50866,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.18,0.8175,0,0.0025,0
+127093,50896,"test","Clean Paid Off","Paid Off After Delinquency",0.3675,0.6275,0,0.005,0
+127161,49621,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4575,0.535,0.005,0.0025,0
+127276,47804,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.6575,0.0225,0.32,0
+127323,47929,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1225,0.8625,0,0.0125,0.0025
+127567,51051,"test","Clean Paid Off","Clean Paid Off",0.6475,0.34,0,0.0125,0
+127767,51096,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.97,0,0.03,0
+127855,50720,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.9375,0.0025,0.045,0
+127917,49034,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.965,0,0.0075,0
+127891,46370,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.37,0.5325,0.0025,0.095,0
+127993,48282,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.105,0.7425,0.01,0.1425,0
+128092,51207,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.325,0.6675,0.0025,0.005,0
+128097,51135,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.9525,0.0025,0.025,0
+128161,47930,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0725,0.8325,0,0.095,0
+128176,46767,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.045,0.9425,0.0075,0.005,0
+128178,51229,"test","Paid Off After Delinquency","Clean Paid Off",0.545,0.4325,0.005,0.0175,0
+128483,50173,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.43,0.5675,0,0.0025,0
+128450,51335,"test","Sold","Paid Off After Delinquency",0.1025,0.72,0,0.1775,0
+128463,51341,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.295,0.7025,0,0.0025,0
+128491,48082,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3975,0.495,0,0.105,0.0025
+128336,51293,"test","Clean Paid Off","Clean Paid Off",0.57,0.355,0.0025,0.0725,0
+128676,51403,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.15,0.8475,0,0.0025,0
+128749,51429,"test","Clean Paid Off","Paid Off After Delinquency",0.4625,0.4825,0.0025,0.0525,0
+128847,47622,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.9725,0,0.0125,0
+128960,48972,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.9375,0.015,0.0425,0
+128972,49353,"test","Clean Paid Off","Clean Paid Off",0.83,0.165,0,0.005,0
+129029,51521,"test","Paid Off After Delinquency","Clean Paid Off",0.53,0.4575,0.0075,0.005,0
+129060,51539,"test","Sold","Sold",0,0.435,0,0.565,0
+129177,49798,"test","Sold","Clean Paid Off",0.4175,0.2325,0.01,0.34,0
+129203,51573,"test","Clean Paid Off","Clean Paid Off",0.8625,0.1375,0,0,0
+129210,51013,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1975,0.7775,0,0.025,0
+129308,51592,"test","Paid Off After Delinquency","Clean Paid Off",0.625,0.375,0,0,0
+129340,51614,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.91,0.015,0.07,0
+129456,48364,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.525,0.005,0.4675,0
+129491,47770,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.035,0.895,0.0025,0.0675,0
+129522,47935,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.225,0.7725,0,0.0025,0
+129574,49499,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.71,0,0.2875,0
+117208,48117,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.45,0.5475,0,0.0025,0
+129645,51686,"test","Clean Paid Off","Clean Paid Off",0.57,0.4225,0,0.0075,0
+129677,51695,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.65,0.0125,0.31,0
+129673,51694,"test","Clean Paid Off","Clean Paid Off",0.7825,0.2125,0,0.005,0
+129686,51699,"test","Clean Paid Off","Clean Paid Off",0.765,0.22,0,0.015,0
+129741,51308,"test","Clean Paid Off","Paid Off After Delinquency",0.44,0.56,0,0,0
+129775,50649,"test","Sold","Paid Off After Delinquency",0.0425,0.81,0.0025,0.145,0
+129867,50506,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3925,0.6,0,0.0075,0
+129864,51741,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.955,0,0.0425,0
+129885,51743,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.035,0.8225,0.0775,0.065,0
+129902,51761,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9875,0,0.01,0
+129967,51756,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.97,0,0.0225,0
+129982,51783,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0775,0.91,0.0025,0.01,0
+130015,51796,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0975,0.8675,0,0.035,0
+130096,51819,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.9325,0,0.0625,0
+130130,48809,"test","Clean Paid Off","Clean Paid Off",0.6575,0.3425,0,0,0
+130143,51148,"test","Sold","Sold",0.0025,0.4175,0,0.57,0.01
+130205,51853,"test","Clean Paid Off","Clean Paid Off",0.4825,0.4625,0,0.055,0
+130336,49049,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.995,0,0,0
+130346,51867,"test","Sold","Sold",0.0025,0.45,0.015,0.5325,0
+130357,50423,"test","Clean Paid Off","Clean Paid Off",0.8225,0.1725,0,0.005,0
+130425,51916,"test","Clean Paid Off","Clean Paid Off",0.5025,0.4775,0,0.02,0
+130261,51870,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.08,0.8425,0,0.0775,0
+130578,50483,"test","Sold","Paid Off After Delinquency",0.0225,0.7425,0,0.235,0
+130693,51534,"test","Clean Paid Off","Clean Paid Off",0.825,0.175,0,0,0
+130854,51626,"test","Paid Off After Delinquency","Clean Paid Off",0.5975,0.39,0.0025,0.01,0
+130947,52067,"test","Sold","Paid Off After Delinquency",0.0075,0.52,0.0075,0.465,0
+130941,52065,"test","Paid Off After Delinquency","Sold",0.005,0.325,0,0.67,0
+130981,48943,"test","Clean Paid Off","Clean Paid Off",0.5875,0.3925,0.0075,0.0125,0
+131079,50482,"test","Clean Paid Off","Paid Off After Delinquency",0.445,0.52,0,0.035,0
+131081,51754,"test","Clean Paid Off","Clean Paid Off",0.6625,0.3375,0,0,0
+131125,47790,"test","Clean Paid Off","Paid Off After Delinquency",0.3075,0.66,0,0.0325,0
+131194,49103,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0625,0.935,0,0.0025,0
+131401,47757,"test","Paid Off After Delinquency","Clean Paid Off",0.5625,0.4325,0,0.005,0
+131475,46831,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.8075,0.0025,0.1825,0
+131480,46500,"test","Clean Paid Off","Clean Paid Off",0.8525,0.1475,0,0,0
+131498,52229,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.11,0.8675,0.005,0.0175,0
+131540,52240,"test","Clean Paid Off","Clean Paid Off",0.8,0.1775,0.01,0.0125,0
+131619,51548,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.915,0.0125,0.055,0
+131691,46784,"test","Clean Paid Off","Clean Paid Off",0.8225,0.1775,0,0,0
+131724,51162,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4825,0.5125,0.0025,0.0025,0
+131726,50167,"test","Sold","Paid Off After Delinquency",0,0.535,0.005,0.46,0
+131778,52301,"test","Clean Paid Off","Clean Paid Off",0.6025,0.3625,0.01,0.025,0
+131786,52314,"test","Clean Paid Off","Clean Paid Off",0.6075,0.3925,0,0,0
+131796,51674,"test","Sold","Sold",0.0075,0.2725,0,0.72,0
+131853,52317,"test","Paid Off After Delinquency","Clean Paid Off",0.855,0.1175,0.0125,0.015,0
+131935,52364,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1025,0.86,0,0.0375,0
+132031,52391,"test","Clean Paid Off","Paid Off After Delinquency",0.3975,0.5775,0,0.025,0
+132232,46934,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.9275,0.0025,0.07,0
+132264,52438,"test","Clean Paid Off","Paid Off After Delinquency",0.4425,0.525,0.005,0.0275,0
+132325,52477,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.9825,0,0.0025,0
+132359,52487,"test","Clean Paid Off","Clean Paid Off",0.8075,0.19,0,0.0025,0
+132352,52485,"test","Clean Paid Off","Clean Paid Off",0.8925,0.1075,0,0,0
+132384,52496,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1025,0.895,0,0.0025,0
+132526,50470,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.9675,0,0.015,0
+132618,52557,"test","Clean Paid Off","Paid Off After Delinquency",0.29,0.515,0.1825,0.0125,0
+132708,52511,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.815,0,0.1775,0
+132717,52590,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.7325,0,0.2675,0
+132778,52611,"test","Clean Paid Off","Clean Paid Off",0.6975,0.295,0,0.0075,0
+132863,47748,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3925,0.5875,0,0.02,0
+132915,52247,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.6475,0,0.35,0
+132932,46767,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.97,0.005,0.0125,0
+128686,51400,"test","Sold","Paid Off After Delinquency",0.0175,0.685,0.005,0.2925,0
+132946,52629,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.035,0.96,0,0.005,0
+132965,46646,"test","Sold","Sold",0.005,0.1875,0,0.8075,0
+132988,48664,"test","Clean Paid Off","Paid Off After Delinquency",0.405,0.5725,0,0.0225,0
+132992,52659,"test","Clean Paid Off","Clean Paid Off",0.6475,0.3475,0,0.005,0
+133061,48795,"test","Clean Paid Off","Clean Paid Off",0.545,0.455,0,0,0
+133035,48115,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.8825,0.005,0.1075,0
+133058,52683,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.07,0.9275,0,0.0025,0
+123365,49757,"test","Clean Paid Off","Clean Paid Off",0.6175,0.38,0,0.0025,0
+133161,46979,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0325,0.955,0,0.0125,0
+133159,52690,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.375,0.59,0,0.035,0
+133271,50204,"test","Sold","Paid Off After Delinquency",0.0175,0.7125,0.0025,0.2675,0
+133459,52329,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0975,0.9,0.0025,0,0
+133423,52774,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.405,0.445,0.005,0.145,0
+133490,52564,"test","Paid Off After Delinquency","Clean Paid Off",0.6825,0.315,0,0.0025,0
+133514,52794,"test","Clean Paid Off","Clean Paid Off",0.45,0.3675,0.01,0.1725,0
+133654,52684,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.235,0.675,0,0.09,0
+133655,52829,"test","Clean Paid Off","Clean Paid Off",0.4775,0.335,0.135,0.0525,0
+133669,52818,"test","Sold","Sold",0.0075,0.2725,0.1,0.62,0
+133824,52833,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.295,0.6725,0.0025,0.03,0
+133887,51884,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.6725,0,0.3275,0
+133897,52917,"test","Clean Paid Off","Clean Paid Off",0.515,0.45,0,0.035,0
+133922,52924,"test","Sold","Sold",0.005,0.2075,0,0.7875,0
+134016,47835,"test","Sold","Paid Off After Delinquency",0.0075,0.54,0.0075,0.445,0
+134055,52919,"test","Clean Paid Off","Paid Off After Delinquency",0.425,0.545,0,0.03,0
+134102,52088,"test","Sold","Clean Paid Off",0.4625,0.4425,0,0.095,0
+134106,49484,"test","Clean Paid Off","Clean Paid Off",0.6325,0.355,0.0025,0.01,0
+134103,52970,"test","Clean Paid Off","Clean Paid Off",0.4875,0.465,0,0.0475,0
+134158,52979,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.965,0,0.0275,0
+134261,46783,"test","Clean Paid Off","Clean Paid Off",0.7275,0.265,0,0.0075,0
+134316,53017,"test","Paid Off After Delinquency","Clean Paid Off",0.625,0.375,0,0,0
+134305,52995,"test","Paid Off After Delinquency","Clean Paid Off",0.6925,0.255,0.01,0.0425,0
+134353,53030,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.43,0.56,0,0.01,0
+134372,52746,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.56,0.035,0.3975,0
+134515,50951,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.95,0.0075,0.0375,0
+134549,52607,"test","Sold","Paid Off After Delinquency",0.305,0.6,0,0.095,0
+134603,52038,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.9875,0,0.0025,0
+134702,50485,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9725,0,0.02,0
+134586,53093,"test","Sold","Paid Off After Delinquency",0.005,0.5125,0,0.4825,0
+134788,47423,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.025,0.955,0.0025,0.0175,0
+134823,53149,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.315,0.535,0.005,0.145,0
+134900,50358,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.025,0.9625,0.0025,0.01,0
+134919,53181,"test","Clean Paid Off","Clean Paid Off",0.655,0.345,0,0,0
+134941,53187,"test","Clean Paid Off","Clean Paid Off",0.8375,0.1625,0,0,0
+134970,53198,"test","Sold","Paid Off After Delinquency",0.0075,0.725,0,0.2675,0
+134990,46151,"test","Clean Paid Off","Clean Paid Off",0.6525,0.3475,0,0,0
+134992,53206,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.965,0,0.0325,0
+135130,53242,"test","Clean Paid Off","Clean Paid Off",0.5375,0.45,0,0.0125,0
+135301,53299,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1175,0.8775,0,0.005,0
+135307,51720,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.4975,0.0075,0.49,0
+135492,51754,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2525,0.69,0,0.01,0.0475
+135588,53391,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4725,0.5125,0,0.015,0
+135715,53420,"test","Paid Off After Delinquency","Sold",0,0.0125,0,0.9875,0
+135726,53156,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.31,0.58,0,0.11,0
+135737,53428,"test","Clean Paid Off","Clean Paid Off",0.965,0.0325,0.0025,0,0
+135765,53436,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.935,0,0.0525,0
+135788,46945,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3225,0.6775,0,0,0
+135822,49664,"test","Sold","Paid Off After Delinquency",0.1775,0.7625,0,0.06,0
+136008,51472,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.58,0,0.4175,0
+136103,52079,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.9775,0,0.01,0
+136154,52891,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0825,0.915,0,0.0025,0
+136173,52450,"test","Clean Paid Off","Clean Paid Off",0.5125,0.4675,0,0.02,0
+136217,53545,"test","Clean Paid Off","Clean Paid Off",0.6375,0.345,0.005,0.0125,0
+136248,53155,"test","Paid Off After Delinquency","Clean Paid Off",0.5475,0.225,0,0.2275,0
+136253,46122,"test","Clean Paid Off","Clean Paid Off",0.805,0.195,0,0,0
+136365,46001,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.7025,0,0.2775,0
+136389,50043,"test","Paid Off After Delinquency","Sold",0.2775,0.3225,0,0.4,0
+136413,53590,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.855,0.0025,0.135,0
+136479,53368,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.17,0.73,0.02,0.08,0
+136564,53114,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.19,0.7425,0.0225,0.045,0
+136561,48403,"test","Clean Paid Off","Paid Off After Delinquency",0.49,0.495,0,0.015,0
+136562,53620,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.9375,0.03,0.0225,0
+136661,49601,"test","Clean Paid Off","Paid Off After Delinquency",0.455,0.545,0,0,0
+136647,50698,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3175,0.6825,0,0,0
+136723,53687,"test","Paid Off After Delinquency","Clean Paid Off",0.5575,0.4425,0,0,0
+136762,53265,"test","Sold","Paid Off After Delinquency",0.005,0.835,0,0.16,0
+136780,52821,"test","Sold","Sold",0,0.185,0.0125,0.8025,0
+136796,53709,"test","Sold","Paid Off After Delinquency",0.0025,0.5175,0.005,0.4725,0.0025
+136804,53685,"test","Clean Paid Off","Clean Paid Off",0.5725,0.365,0,0.0625,0
+137085,52846,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.05,0.9425,0.005,0.0025,0
+137098,53110,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.8625,0.0025,0.1325,0
+137116,53807,"test","Paid Off After Delinquency","Clean Paid Off",0.56,0.4325,0,0.0075,0
+137088,53798,"test","Clean Paid Off","Clean Paid Off",0.5675,0.4275,0.0025,0.0025,0
+137216,53273,"test","Sold","Sold",0,0.185,0.015,0.8,0
+137205,52545,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2725,0.4175,0.02,0.29,0
+137226,52367,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.955,0.005,0.0325,0
+137275,51255,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.9575,0.0075,0.0225,0
+137324,53838,"test","Paid Off After Delinquency","Clean Paid Off",0.48,0.3675,0,0.1525,0
+137332,49063,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.265,0.585,0,0.15,0
+137388,53751,"test","Clean Paid Off","Paid Off After Delinquency",0.2975,0.6425,0,0.06,0
+137433,50695,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0575,0.9425,0,0,0
+137112,50513,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.9625,0.0025,0.015,0
+137561,53943,"test","Clean Paid Off","Clean Paid Off",0.875,0.12,0.0025,0.0025,0
+137550,52254,"test","Sold","Sold",0,0.29,0.0075,0.7025,0
+120964,49140,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4425,0.545,0,0.0125,0
+137767,51075,"test","Sold","Sold",0,0.1425,0,0.8575,0
+137923,54050,"test","Clean Paid Off","Paid Off After Delinquency",0.46,0.54,0,0,0
+137960,54058,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.7725,0.2,0.0175,0
+138041,48814,"test","Clean Paid Off","Clean Paid Off",0.655,0.33,0,0.015,0
+138121,54120,"test","Paid Off After Delinquency","Clean Paid Off",0.645,0.355,0,0,0
+138135,54127,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.035,0.965,0,0,0
+138218,54156,"test","Clean Paid Off","Clean Paid Off",0.895,0.1,0,0.005,0
+138224,53410,"test","Clean Paid Off","Clean Paid Off",0.6425,0.3525,0,0.005,0
+138333,54180,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9225,0,0.07,0
+138433,52794,"test","Sold","Paid Off After Delinquency",0.19,0.605,0,0.205,0
+138435,52485,"test","Paid Off After Delinquency","Clean Paid Off",0.8775,0.12,0,0.0025,0
+138454,47623,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.875,0,0.11,0
+138525,46710,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9625,0,0.03,0
+138488,53326,"test","Sold","Sold",0.0025,0.07,0,0.9275,0
+138542,49423,"test","Clean Paid Off","Clean Paid Off",0.685,0.315,0,0,0
+138524,53004,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.9475,0.0025,0.045,0
+138541,54229,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4775,0.495,0,0.0275,0
+138539,54228,"test","Clean Paid Off","Clean Paid Off",0.615,0.3575,0.005,0.0225,0
+138602,54241,"test","Paid Off After Delinquency","Clean Paid Off",0.5825,0.4025,0,0.015,0
+138641,51720,"test","Sold","Sold",0.0025,0.47,0.015,0.5125,0
+138703,53387,"test","Sold","Sold",0,0.245,0,0.755,0
+138742,50055,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.03,0.9025,0.0075,0.06,0
+138766,53459,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4275,0.56,0,0.0125,0
+138787,52557,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3425,0.4375,0.19,0.03,0
+138835,54297,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.7125,0,0.2775,0
+138831,46704,"test","Sold","Paid Off After Delinquency",0.2225,0.735,0.0025,0.04,0
+138857,54307,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.035,0.935,0,0.03,0
+138948,54332,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3975,0.5825,0.0025,0.0175,0
+139003,54340,"test","Clean Paid Off","Clean Paid Off",0.5225,0.4675,0.0025,0.0075,0
+139099,54358,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.9175,0.04,0.015,0
+139181,48943,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.9675,0.0025,0.0175,0
+139142,54375,"test","Clean Paid Off","Clean Paid Off",0.545,0.445,0,0.01,0
+138931,52611,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0325,0.875,0.005,0.0875,0
+139231,54407,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.38,0.615,0,0.005,0
+139251,54414,"test","Clean Paid Off","Clean Paid Off",0.5875,0.355,0,0.0575,0
+139286,54427,"test","Clean Paid Off","Clean Paid Off",0.6625,0.3,0,0.0375,0
+139420,54069,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1175,0.88,0,0.0025,0
+139458,48718,"test","Clean Paid Off","Clean Paid Off",0.705,0.285,0,0.0075,0.0025
+139534,46122,"test","Clean Paid Off","Paid Off After Delinquency",0.25,0.75,0,0,0
+139577,54003,"test","Sold","Clean Paid Off",0.54,0.4475,0,0.01,0.0025
+139683,46767,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3825,0.6125,0.0025,0.0025,0
+139809,54556,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0525,0.945,0,0.0025,0
+139881,53111,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.88,0.0025,0.115,0
+139909,54570,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.94,0.0075,0.05,0
+139944,54593,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.97,0,0.0025,0
+139996,54606,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3875,0.605,0.0025,0.005,0
+140092,51162,"test","Clean Paid Off","Clean Paid Off",0.725,0.275,0,0,0
+140110,49718,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.9725,0,0.0075,0
+140122,54266,"test","Clean Paid Off","Paid Off After Delinquency",0.285,0.6875,0,0.0125,0.015
+140139,54645,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0375,0.9175,0,0.045,0
+140155,54630,"test","Clean Paid Off","Clean Paid Off",0.5075,0.4825,0,0.01,0
+140171,53540,"test","Clean Paid Off","Paid Off After Delinquency",0.4425,0.55,0,0.0075,0
+140381,54646,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9775,0,0.015,0
+140447,54691,"test","Sold","Sold",0,0.44,0.0075,0.5525,0
+140460,54726,"test","Sold","Sold",0.0025,0.0725,0,0.925,0
+140587,54767,"test","Clean Paid Off","Clean Paid Off",0.7675,0.2325,0,0,0
+140669,54789,"test","Paid Off After Delinquency","Clean Paid Off",0.7075,0.265,0.005,0.0225,0
+140750,51749,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9525,0,0.045,0
+140769,54836,"test","Sold","Paid Off After Delinquency",0.005,0.56,0.005,0.43,0
+140783,54848,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.025,0.885,0.0125,0.0775,0
+140848,54421,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.09,0.8875,0,0.0225,0
+140811,50416,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.61,0.0025,0.385,0
+140874,48304,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0625,0.935,0,0.0025,0
+140867,54859,"test","Clean Paid Off","Clean Paid Off",0.5725,0.41,0,0.0175,0
+140901,49564,"test","Paid Off After Delinquency","Clean Paid Off",0.775,0.205,0,0.02,0
+141070,54931,"test","Clean Paid Off","Paid Off After Delinquency",0.405,0.5675,0,0.0275,0
+141173,51031,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.7475,0.05,0.1875,0
+141335,54990,"test","Paid Off After Delinquency","Clean Paid Off",0.8375,0.1625,0,0,0
+141437,55031,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.49,0.5,0,0.01,0
+141359,55015,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.745,0.005,0.23,0
+141500,53784,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.96,0,0.02,0
+141575,55061,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.965,0,0.0275,0
+141582,51600,"test","Sold","Paid Off After Delinquency",0.01,0.7425,0,0.245,0.0025
+141631,52438,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.165,0.825,0,0.01,0
+141678,50920,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.345,0.6525,0.0025,0,0
+141716,55102,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.9725,0.0125,0.015,0
+141815,51418,"test","Clean Paid Off","Clean Paid Off",0.5425,0.455,0,0.0025,0
+141809,54550,"test","Sold","Paid Off After Delinquency",0.01,0.4925,0,0.4925,0.005
+141852,55135,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2975,0.6475,0.0075,0.0475,0
+141915,55153,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0925,0.9075,0,0,0
+142128,52838,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.9925,0.0025,0,0
+142122,53155,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.6625,0,0.3225,0
+142169,47790,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.055,0.92,0,0.025,0
+142185,48401,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.065,0.93,0,0.005,0
+142221,45859,"test","Paid Off After Delinquency","Clean Paid Off",0.565,0.43,0,0.005,0
+142225,45884,"test","Clean Paid Off","Clean Paid Off",0.5675,0.3725,0,0.06,0
+142265,51798,"test","Sold","Paid Off After Delinquency",0.0275,0.8175,0.0025,0.1525,0
+142274,45809,"test","Paid Off After Delinquency","Clean Paid Off",0.45,0.39,0.0125,0.1475,0
+142247,48653,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.975,0,0.0225,0
+142303,55183,"test","Paid Off After Delinquency","Clean Paid Off",0.58,0.3925,0.0025,0.025,0
+142335,55125,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9075,0,0.09,0
+142372,53533,"test","Clean Paid Off","Clean Paid Off",0.835,0.165,0,0,0
+142528,50601,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0475,0.8625,0.005,0.085,0
+142578,55314,"test","Sold","Clean Paid Off",0.52,0.445,0,0.035,0
+142587,52274,"test","Sold","Sold",0,0.3725,0.0025,0.625,0
+142478,55269,"test","Paid Off After Delinquency","Clean Paid Off",0.6675,0.33,0,0.0025,0
+142585,55322,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.855,0,0.145,0
+142810,55406,"test","Paid Off After Delinquency","Clean Paid Off",0.5575,0.4425,0,0,0
+142785,55404,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.84,0,0.1575,0
+142855,54416,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.03,0.96,0.0025,0.0075,0
+142944,55459,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.5025,0.0825,0.41,0
+143043,55485,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.98,0.0025,0.015,0
+143028,53635,"test","Clean Paid Off","Clean Paid Off",0.5525,0.445,0,0.0025,0
+143110,53869,"test","Clean Paid Off","Paid Off After Delinquency",0.43,0.56,0.0025,0.0075,0
+143286,50104,"test","Paid Off After Delinquency","Clean Paid Off",0.6325,0.365,0,0.0025,0
+143308,55582,"test","Clean Paid Off","Clean Paid Off",0.4775,0.36,0.06,0.1025,0
+143373,49084,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.985,0,0.0025,0
+143307,55441,"test","Clean Paid Off","Clean Paid Off",0.555,0.415,0.0025,0.0275,0
+143365,55602,"test","Sold","Sold",0.0025,0.0925,0,0.905,0
+143370,54394,"test","Written Off","Paid Off After Delinquency",0.0025,0.7875,0.14,0.07,0
+143425,54232,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0975,0.8775,0,0.025,0
+143777,46625,"test","Sold","Paid Off After Delinquency",0.01,0.5975,0.0025,0.39,0
+143831,47668,"test","Clean Paid Off","Paid Off After Delinquency",0.365,0.62,0.0025,0.005,0.0075
+143849,55709,"test","Paid Off After Delinquency","Sold",0,0.46,0.05,0.49,0
+143953,52301,"test","Clean Paid Off","Paid Off After Delinquency",0.475,0.4875,0,0.0375,0
+143959,55023,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.8275,0.0325,0.13,0
+143971,55728,"test","Clean Paid Off","Clean Paid Off",0.5025,0.4675,0.01,0.02,0
+143966,55774,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9025,0.0675,0.0225,0
+143982,47598,"test","Clean Paid Off","Clean Paid Off",0.8025,0.1975,0,0,0
+144074,50696,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.18,0.8025,0,0.0175,0
+144093,52391,"test","Clean Paid Off","Clean Paid Off",0.695,0.2975,0,0.0075,0
+112108,46375,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3775,0.6025,0,0.02,0
+144170,49423,"test","Clean Paid Off","Clean Paid Off",0.855,0.1425,0,0.0025,0
+144288,51245,"test","Clean Paid Off","Clean Paid Off",0.9125,0.085,0,0.0025,0
+144394,55896,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0375,0.9525,0.0025,0.0075,0
+144449,55893,"test","Sold","Sold",0.005,0.0825,0,0.91,0.0025
+144480,55918,"test","Clean Paid Off","Clean Paid Off",0.5275,0.3975,0.0125,0.0625,0
+144512,55933,"test","Clean Paid Off","Paid Off After Delinquency",0.305,0.6925,0,0.0025,0
+144534,55937,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.345,0.65,0,0.005,0
+144587,54433,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4525,0.4925,0.0175,0.0375,0
+144776,50816,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.98,0,0.01,0
+144696,46610,"test","Clean Paid Off","Clean Paid Off",0.6425,0.3575,0,0,0
+144773,55873,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.53,0,0.47,0
+144771,54047,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.94,0.01,0.0475,0
+144832,52525,"test","Clean Paid Off","Paid Off After Delinquency",0.4425,0.555,0,0.0025,0
+144831,56011,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.8625,0.0025,0.13,0
+145014,50082,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.07,0.92,0,0.01,0
+145058,56083,"test","Sold","Sold",0.005,0.4,0.0025,0.5925,0
+145153,54989,"test","Sold","Sold",0,0.0575,0,0.9425,0
+145289,55723,"test","Clean Paid Off","Clean Paid Off",0.605,0.3825,0.005,0.0075,0
+145294,56146,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0875,0.895,0,0.0175,0
+145346,56163,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.03,0.935,0,0.035,0
+145372,54922,"test","Clean Paid Off","Clean Paid Off",0.945,0.0525,0,0.0025,0
+145408,49360,"test","Paid Off After Delinquency","Clean Paid Off",0.54,0.3525,0,0.1075,0
+145412,54586,"test","Paid Off After Delinquency","Clean Paid Off",0.5525,0.4475,0,0,0
+145488,56197,"test","Sold","Paid Off After Delinquency",0.02,0.7525,0.0225,0.205,0
+145638,53420,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.635,0,0.365,0
+145668,53540,"test","Clean Paid Off","Clean Paid Off",0.6,0.3975,0,0.0025,0
+145785,48863,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.94,0,0.06,0
+145790,47059,"test","Clean Paid Off","Clean Paid Off",0.7425,0.2575,0,0,0
+145778,56277,"test","Sold","Sold",0,0.0375,0,0.9625,0
+145842,54731,"test","Written Off","Paid Off After Delinquency",0.0125,0.78,0.145,0.0625,0
+145865,56293,"test","Sold","Clean Paid Off",0.45,0.405,0.01,0.135,0
+145880,52838,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0825,0.9,0,0.0175,0
+145889,46888,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.735,0.005,0.2525,0
+145935,47506,"test","Clean Paid Off","Clean Paid Off",0.5825,0.4075,0,0.01,0
+146124,56367,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.925,0,0.075,0
+146141,56370,"test","Clean Paid Off","Clean Paid Off",0.6075,0.3875,0,0.005,0
+146261,56368,"test","Paid Off After Delinquency","Clean Paid Off",0.5925,0.3825,0.02,0.005,0
+146585,56431,"test","Clean Paid Off","Clean Paid Off",0.5475,0.435,0.0075,0.01,0
+146599,56486,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.9625,0.0075,0.0175,0
+146630,51098,"test","Clean Paid Off","Paid Off After Delinquency",0.415,0.575,0,0.01,0
+146737,49034,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.035,0.9625,0,0.0025,0
+146742,54224,"test","Clean Paid Off","Clean Paid Off",0.6775,0.3225,0,0,0
+146759,55407,"test","Paid Off After Delinquency","Clean Paid Off",0.61,0.3725,0,0.0175,0
+146761,56530,"test","Sold","Paid Off After Delinquency",0.01,0.9625,0,0.0275,0
+146808,48541,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0325,0.965,0,0.0025,0
+147035,56612,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.945,0,0.0375,0
+147027,56607,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9525,0,0.04,0
+147046,56605,"test","Clean Paid Off","Clean Paid Off",0.61,0.3875,0,0.0025,0
+147105,50146,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.9625,0.0025,0.03,0
+147242,56641,"test","Clean Paid Off","Clean Paid Off",0.6725,0.3,0,0.0275,0
+147531,56730,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.9575,0,0.0225,0
+147584,52624,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3425,0.655,0,0.0025,0
+147657,56769,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9475,0,0.05,0
+147843,56817,"test","Paid Off After Delinquency","Clean Paid Off",0.5825,0.4175,0,0,0
+148025,56273,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.97,0,0.015,0
+148251,54390,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.05,0.9425,0.0075,0,0
+148294,56350,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.855,0,0.1375,0
+148343,47606,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0875,0.91,0,0.0025,0
+148450,51938,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.815,0,0.1675,0.005
+148626,46764,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.23,0.77,0,0,0
+148669,57065,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.9525,0.0075,0.035,0
+148708,53603,"test","Paid Off After Delinquency","Clean Paid Off",0.5425,0.4575,0,0,0
+148808,57126,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.075,0.85,0,0.075,0
+148825,54064,"test","Paid Off After Delinquency","Clean Paid Off",0.6225,0.3425,0.0075,0.0275,0
+148872,49247,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.985,0.005,0.0025,0
+149014,57177,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1025,0.6875,0.005,0.205,0
+149046,57188,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9575,0.0175,0.0175,0
+149384,52980,"test","Clean Paid Off","Clean Paid Off",0.7075,0.2925,0,0,0
+149476,57280,"test","Paid Off After Delinquency","Clean Paid Off",0.6975,0.2475,0,0.055,0
+149508,51150,"test","Clean Paid Off","Paid Off After Delinquency",0.4575,0.5275,0,0.015,0
+149532,49353,"test","Paid Off After Delinquency","Clean Paid Off",0.5925,0.385,0,0.0225,0
+149538,52917,"test","Paid Off After Delinquency","Clean Paid Off",0.535,0.4325,0,0.0325,0
+149557,50715,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.175,0.78,0.0025,0.0425,0
+149594,46794,"test","Paid Off After Delinquency","Clean Paid Off",0.79,0.2075,0,0.0025,0
+120681,49071,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4675,0.525,0,0.0075,0
+149625,55485,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.95,0.0025,0.0475,0
+149718,55462,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.925,0.0275,0.02,0
+149839,54960,"test","Sold","Sold",0.005,0.25,0,0.745,0
+149833,54398,"test","Paid Off After Delinquency","Clean Paid Off",0.585,0.3625,0,0.0525,0
+149879,57386,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.86,0.02,0.105,0
+149935,57402,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.7175,0,0.28,0
+149956,50569,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.795,0.0025,0.1975,0
+149965,53140,"test","Sold","Paid Off After Delinquency",0.0025,0.675,0,0.3225,0
+150071,51902,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.055,0.9425,0,0.0025,0
+150012,52218,"test","Clean Paid Off","Clean Paid Off",0.625,0.375,0,0,0
+150045,57441,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0225,0.96,0.005,0.0125,0
+150041,57438,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.975,0,0.01,0
+150120,57469,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2225,0.7175,0.0075,0.0525,0
+150163,57487,"test","Clean Paid Off","Clean Paid Off",0.6425,0.3275,0.0075,0.0225,0
+150162,57486,"test","Clean Paid Off","Clean Paid Off",0.69,0.305,0,0.0025,0.0025
+150184,57496,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.495,0.505,0,0,0
+150185,57259,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.91,0,0.0625,0
+150372,54421,"test","Sold","Paid Off After Delinquency",0.0225,0.9375,0.0025,0.0375,0
+150365,51076,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.115,0.8625,0,0.0225,0
+150552,56180,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2825,0.71,0,0.0075,0
+150618,52758,"test","Paid Off After Delinquency","Clean Paid Off",0.7925,0.2075,0,0,0
+150565,57614,"test","Paid Off After Delinquency","Clean Paid Off",0.5425,0.455,0.0025,0,0
+150720,56708,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9725,0,0.02,0
+151122,52097,"test","Clean Paid Off","Clean Paid Off",0.6825,0.305,0,0.0125,0
+151157,57806,"test","Clean Paid Off","Clean Paid Off",0.6375,0.3625,0,0,0
+151169,57690,"test","Paid Off After Delinquency","Clean Paid Off",0.4575,0.345,0,0.1975,0
+151005,57741,"test","Paid Off After Delinquency","Clean Paid Off",0.525,0.4725,0,0.0025,0
+151240,57830,"test","Clean Paid Off","Paid Off After Delinquency",0.4075,0.5875,0,0.005,0
+151277,47770,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.7025,0,0.2825,0.005
+151375,57859,"test","Paid Off After Delinquency","Clean Paid Off",0.515,0.48,0,0.005,0
+151403,57868,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.7725,0,0.2175,0
+151652,57933,"test","Clean Paid Off","Paid Off After Delinquency",0.4775,0.52,0,0.0025,0
+151631,55267,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.865,0.005,0.1275,0
+146116,56339,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2675,0.6,0,0.1325,0
+151721,57881,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0475,0.9425,0,0.01,0
+151771,57961,"test","Sold","Sold",0.0075,0.4825,0.0175,0.4925,0
+151769,57962,"test","Clean Paid Off","Clean Paid Off",0.5275,0.47,0,0.0025,0
+151783,57970,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.9825,0,0.0175,0
+151827,47757,"test","Clean Paid Off","Clean Paid Off",0.6,0.4,0,0,0
+152028,50200,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.9925,0,0.0025,0
+152061,58040,"test","Clean Paid Off","Clean Paid Off",0.6675,0.3125,0.0025,0.0175,0
+152096,58029,"test","Paid Off After Delinquency","Sold",0.0025,0.17,0.0025,0.825,0
+152094,57999,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.025,0.9425,0,0.0325,0
+152216,57211,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.7475,0.1275,0.1225,0
+152236,55306,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.715,0.0025,0.27,0
+152240,55637,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.415,0.5775,0,0.0075,0
+152247,58075,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.05,0.9475,0,0.0025,0
+152276,51102,"test","Clean Paid Off","Paid Off After Delinquency",0.485,0.515,0,0,0
+152297,49239,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.98,0,0.0175,0
+152302,58101,"test","Paid Off After Delinquency","Sold",0.0025,0.4375,0.01,0.55,0
+152316,58071,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0975,0.8875,0,0.015,0
+152363,54332,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.95,0.0025,0.045,0
+152483,50713,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.975,0,0.0075,0
+152488,56410,"test","Clean Paid Off","Paid Off After Delinquency",0.3875,0.6075,0.005,0,0
+152572,58175,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0825,0.895,0,0.0225,0
+152595,57959,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.905,0,0.095,0
+152614,46322,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1125,0.8025,0.0025,0.0825,0
+152622,55826,"test","Paid Off After Delinquency","Clean Paid Off",0.49,0.41,0.01,0.09,0
+152567,58173,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4325,0.56,0,0.0075,0
+152653,58187,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.27,0.655,0.0075,0.0675,0
+152689,57478,"test","Sold","Paid Off After Delinquency",0.01,0.8425,0,0.1475,0
+152746,57789,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.38,0.6125,0.0025,0.005,0
+152723,58203,"test","Paid Off After Delinquency","Sold",0.0025,0.44,0,0.5575,0
+152831,49798,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.055,0.7475,0.015,0.1825,0
+152998,49718,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.035,0.7725,0.03,0.1625,0
+152993,55548,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.985,0,0.0075,0
+152946,58263,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0425,0.9475,0,0.01,0
+152950,46224,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.04,0.895,0.0025,0.0625,0
+153009,58272,"test","Clean Paid Off","Paid Off After Delinquency",0.42,0.5725,0,0.0075,0
+153049,58184,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1175,0.8775,0,0.005,0
+153100,58299,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.985,0,0.0075,0
+153144,58280,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9675,0,0.025,0
+153253,46859,"test","Clean Paid Off","Clean Paid Off",0.5775,0.4225,0,0,0
+153255,58339,"test","Clean Paid Off","Clean Paid Off",0.5275,0.47,0,0.0025,0
+153268,56297,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.055,0.9425,0.0025,0,0
+153265,57376,"test","Clean Paid Off","Paid Off After Delinquency",0.49,0.51,0,0,0
+153298,57122,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.8725,0.0425,0.08,0
+153356,48109,"test","Clean Paid Off","Clean Paid Off",0.57,0.4275,0,0.0025,0
+153432,58382,"test","Sold","Sold",0,0.44,0.0075,0.5525,0
+153451,47881,"test","Clean Paid Off","Clean Paid Off",0.665,0.335,0,0,0
+153478,58397,"test","Clean Paid Off","Paid Off After Delinquency",0.3925,0.555,0,0.0525,0
+153584,52795,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.9525,0,0.03,0
+153609,58407,"test","Clean Paid Off","Clean Paid Off",0.755,0.195,0.015,0.035,0
+153634,58437,"test","Paid Off After Delinquency","Sold",0.01,0.4725,0.0025,0.515,0
+153631,57248,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.25,0.7,0.0025,0.0475,0
+153723,52188,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.9925,0,0.0075,0
+153787,54832,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0725,0.92,0,0.0075,0
+153795,51819,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.97,0,0.015,0
+154030,58495,"test","Clean Paid Off","Clean Paid Off",0.4775,0.385,0.0425,0.095,0
+154023,58468,"test","Clean Paid Off","Clean Paid Off",0.56,0.44,0,0,0
+154128,58347,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.9225,0.0125,0.055,0
+154202,58579,"test","Clean Paid Off","Clean Paid Off",0.7625,0.2375,0,0,0
+154384,48361,"test","Paid Off After Delinquency","Clean Paid Off",0.6075,0.39,0,0.0025,0
+154445,57130,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9825,0,0.01,0
+154484,53612,"test","Sold","Paid Off After Delinquency",0.0075,0.535,0.025,0.4325,0
+154501,58145,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.445,0.55,0,0.005,0
+154520,55302,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.8875,0,0.11,0
+154725,45840,"test","Paid Off After Delinquency","Clean Paid Off",0.5,0.4975,0.0025,0,0
+154749,57597,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.135,0.8575,0,0.0075,0
+154746,47532,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.9475,0,0.04,0
+154753,58742,"test","Clean Paid Off","Clean Paid Off",0.49,0.49,0.0025,0.0175,0
+154815,51253,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.05,0.9475,0,0.0025,0
+154828,51701,"test","Clean Paid Off","Clean Paid Off",0.7,0.3,0,0,0
+154908,58530,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.885,0.025,0.075,0
+154922,58781,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0675,0.9325,0,0,0
+154978,47233,"test","Clean Paid Off","Clean Paid Off",0.625,0.365,0.005,0.005,0
+155155,58848,"test","Sold","Paid Off After Delinquency",0,0.94,0,0.06,0
+155187,51076,"test","Paid Off After Delinquency","Clean Paid Off",0.64,0.325,0.0025,0.0325,0
+155207,58842,"test","Paid Off After Delinquency","Clean Paid Off",0.7675,0.2075,0.0125,0.0125,0
+155332,51005,"test","Clean Paid Off","Clean Paid Off",0.5975,0.3975,0,0.005,0
+155349,58892,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0625,0.935,0.0025,0,0
+155347,54772,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1525,0.8025,0.025,0.02,0
+155317,58901,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1925,0.805,0.0025,0,0
+155514,54609,"test","Clean Paid Off","Clean Paid Off",0.71,0.2875,0.0025,0,0
+155519,57753,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.045,0.875,0.045,0.035,0
+155602,58993,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1825,0.8125,0,0.005,0
+155676,59011,"test","Paid Off After Delinquency","Sold",0.005,0.305,0,0.69,0
+155755,54324,"test","Paid Off After Delinquency","Clean Paid Off",0.6225,0.375,0,0.0025,0
+155836,59017,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.9125,0,0.07,0
+155974,59106,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0725,0.9225,0,0.005,0
+155980,53131,"test","Sold","Paid Off After Delinquency",0.0025,0.7075,0.0025,0.2875,0
+156136,53603,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1175,0.8825,0,0,0
+156086,59147,"test","Clean Paid Off","Clean Paid Off",0.7625,0.2375,0,0,0
+156097,59127,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.425,0.5725,0.0025,0,0
+156100,59144,"test","Clean Paid Off","Paid Off After Delinquency",0.4325,0.5675,0,0,0
+156238,57047,"test","Clean Paid Off","Clean Paid Off",0.6725,0.325,0,0.0025,0
+156317,57629,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3225,0.665,0.005,0.0075,0
+156320,59220,"test","Clean Paid Off","Clean Paid Off",0.715,0.285,0,0,0
+156445,52571,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.9875,0,0.0025,0
+156385,50438,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.985,0,0.0075,0
+156173,59171,"test","Sold","Paid Off After Delinquency",0.0625,0.6525,0,0.285,0
+156407,59240,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0425,0.9575,0,0,0
+156420,54232,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1425,0.8525,0,0.005,0
+156619,57599,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.03,0.97,0,0,0
+156681,57790,"test","Clean Paid Off","Clean Paid Off",0.59,0.405,0,0.005,0
+156849,59297,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0875,0.91,0,0.0025,0
+156999,59364,"test","Clean Paid Off","Clean Paid Off",0.6175,0.3825,0,0,0
+157054,59382,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2925,0.695,0,0.01,0.0025
+157162,59405,"test","Clean Paid Off","Clean Paid Off",0.52,0.4375,0,0.0425,0
+157211,59262,"test","Sold","Sold",0,0.1825,0,0.815,0.0025
+157295,55494,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0325,0.805,0.0025,0.16,0
+157231,48109,"test","Clean Paid Off","Clean Paid Off",0.61,0.3825,0,0.0075,0
+157238,59431,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.8325,0.0025,0.1525,0
+157248,59432,"test","Clean Paid Off","Clean Paid Off",0.5825,0.4175,0,0,0
+157296,59445,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.98,0,0.0175,0
+157332,57354,"test","Clean Paid Off","Clean Paid Off",0.735,0.2625,0,0.0025,0
+157361,57163,"test","Paid Off After Delinquency","Sold",0,0.225,0,0.7725,0.0025
+157601,53158,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.98,0,0.005,0
+157750,47294,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.055,0.9375,0.0025,0.005,0
+157833,59573,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.105,0.885,0.005,0.005,0
+158044,59619,"test","Clean Paid Off","Paid Off After Delinquency",0.4475,0.5475,0,0.0025,0.0025
+158128,55918,"test","Clean Paid Off","Clean Paid Off",0.57,0.4075,0.0025,0.02,0
+158161,56547,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9775,0,0.02,0
+158163,56286,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0325,0.9625,0.005,0,0
+158277,59676,"test","Paid Off After Delinquency","Clean Paid Off",0.6275,0.365,0.0075,0,0
+158328,54616,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.9275,0,0.05,0.0025
+158324,59671,"test","Paid Off After Delinquency","Clean Paid Off",0.59,0.4,0.005,0.005,0
+158352,52833,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.97,0,0.0025,0
+157978,53724,"test","Clean Paid Off","Clean Paid Off",0.8925,0.105,0,0.0025,0
+158600,49764,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0225,0.97,0,0.0075,0
+158715,59780,"test","Sold","Sold",0,0.1,0,0.8975,0.0025
+158823,59812,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.975,0,0.0125,0
+158881,59801,"test","Clean Paid Off","Clean Paid Off",0.785,0.215,0,0,0
+159036,59858,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.9175,0.035,0.0375,0
+159132,59856,"test","Clean Paid Off","Clean Paid Off",0.62,0.38,0,0,0
+159156,59590,"test","Paid Off After Delinquency","Clean Paid Off",0.6875,0.3125,0,0,0
+159235,55259,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4675,0.5275,0.0025,0.0025,0
+159267,59914,"test","Paid Off After Delinquency","Clean Paid Off",0.53,0.4225,0.03,0.0175,0
+159316,59854,"test","Sold","Sold",0.01,0.405,0.0025,0.5775,0.005
+159321,56511,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.05,0.9075,0.035,0.0075,0
+159409,59946,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.75,0,0.245,0
+159421,59948,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0225,0.835,0.01,0.1325,0
+159463,53611,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.025,0.975,0,0,0
+159476,55306,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.845,0,0.15,0
+159701,60026,"test","Clean Paid Off","Clean Paid Off",0.5875,0.375,0.0125,0.025,0
+159724,59934,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.97,0.005,0.0075,0
+159746,60042,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.99,0,0,0.0025
+159782,60057,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4525,0.5425,0,0.005,0
+159836,60070,"test","Paid Off After Delinquency","Clean Paid Off",0.515,0.4825,0,0.0025,0
+159830,60065,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.36,0.64,0,0,0
+159890,54609,"test","Clean Paid Off","Clean Paid Off",0.6875,0.3125,0,0,0
+159909,59879,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1325,0.8525,0,0.015,0
+159939,60114,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.9175,0.01,0.055,0
+160008,59946,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.6675,0,0.325,0
+160046,51074,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.045,0.9525,0,0.0025,0
+160059,56285,"test","Clean Paid Off","Paid Off After Delinquency",0.4875,0.5025,0.01,0,0
+160092,59976,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.9825,0,0.0025,0.0025
+160115,46499,"test","Clean Paid Off","Clean Paid Off",0.65,0.3475,0,0.0025,0
+160145,56712,"test","Clean Paid Off","Clean Paid Off",0.6575,0.3425,0,0,0
+160253,60209,"test","Paid Off After Delinquency","Clean Paid Off",0.6625,0.3375,0,0,0
+160243,60207,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0525,0.9375,0,0.01,0
+160270,59772,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.6975,0.025,0.2575,0
+160323,48844,"test","Paid Off After Delinquency","Clean Paid Off",0.625,0.37,0,0.005,0
+160349,56572,"test","Clean Paid Off","Clean Paid Off",0.8075,0.1875,0,0.005,0
+160495,57757,"test","Paid Off After Delinquency","Clean Paid Off",0.6775,0.295,0.015,0.0125,0
+160536,59699,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.03,0.92,0,0.0475,0.0025
+160634,59895,"test","Clean Paid Off","Paid Off After Delinquency",0.36,0.5275,0,0.105,0.0075
+160893,47233,"test","Clean Paid Off","Clean Paid Off",0.65,0.345,0,0.0025,0.0025
+160956,58233,"test","Clean Paid Off","Clean Paid Off",0.6625,0.3325,0,0.0025,0.0025
+161135,60458,"test","Clean Paid Off","Paid Off After Delinquency",0.3975,0.5925,0,0.01,0
+161257,60267,"test","Clean Paid Off","Paid Off After Delinquency",0.445,0.5425,0,0.0125,0
+161248,57796,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.095,0.9,0,0.005,0
+161266,57493,"test","Clean Paid Off","Paid Off After Delinquency",0.455,0.5425,0,0.0025,0
+161267,45912,"test","Clean Paid Off","Clean Paid Off",0.5375,0.4575,0,0.0025,0.0025
+161341,58936,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2025,0.78,0,0.0175,0
+161497,60312,"test","Paid Off After Delinquency","Clean Paid Off",0.5125,0.48,0,0.0075,0
+161630,60575,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.095,0.9025,0,0.0025,0
+161705,52608,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3525,0.635,0,0.0125,0
+161720,60570,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.99,0,0,0
+161906,60658,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.5575,0,0.4375,0.005
+161976,60676,"test","Clean Paid Off","Paid Off After Delinquency",0.48,0.51,0.0075,0,0.0025
+162012,60688,"test","Clean Paid Off","Clean Paid Off",0.775,0.225,0,0,0
+162098,60678,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.965,0,0.035,0
+162117,60041,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.745,0,0.2475,0.0025
+162083,52300,"test","Clean Paid Off","Clean Paid Off",0.76,0.22,0.0075,0.0125,0
+162134,50838,"test","Clean Paid Off","Paid Off After Delinquency",0.445,0.5525,0,0.0025,0
+162193,60580,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0475,0.945,0,0.0075,0
+162194,60734,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.98,0,0.02,0
+162353,55826,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.95,0,0.0375,0.0025
+162380,60791,"test","Clean Paid Off","Paid Off After Delinquency",0.485,0.5125,0,0.0025,0
+162397,60798,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0475,0.9525,0,0,0
+162571,57599,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.985,0,0.0075,0
+162547,49779,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.06,0.935,0,0.005,0
+162700,49839,"test","Paid Off After Delinquency","Clean Paid Off",0.635,0.365,0,0,0
+162725,60894,"test","Clean Paid Off","Paid Off After Delinquency",0.47,0.525,0,0.005,0
+162738,60887,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1,0.89,0,0.01,0
+162774,59495,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4075,0.5825,0,0.01,0
+162881,59072,"test","Clean Paid Off","Paid Off After Delinquency",0.46,0.535,0.0025,0.0025,0
+162959,60918,"test","Clean Paid Off","Clean Paid Off",0.82,0.18,0,0,0
+162965,60940,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.995,0,0.0025,0.0025
+163115,61008,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2,0.71,0.0025,0.0875,0
+163144,49120,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9775,0,0.015,0
+163222,58796,"test","Clean Paid Off","Clean Paid Off",0.7275,0.2725,0,0,0
+163287,55549,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.9725,0,0.0225,0
+163305,59131,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.9825,0,0.0025,0
+163313,54809,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2475,0.7475,0,0.005,0
+163400,47668,"test","Clean Paid Off","Clean Paid Off",0.6775,0.315,0,0.0075,0
+163409,60672,"test","Paid Off After Delinquency","Clean Paid Off",0.7125,0.2875,0,0,0
+163649,57036,"test","Paid Off After Delinquency","Clean Paid Off",0.6525,0.3475,0,0,0
+163876,57351,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3325,0.6675,0,0,0
+163943,61261,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9925,0,0.005,0
+164175,61308,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.145,0.8525,0.0025,0,0
+164172,61316,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.155,0.8425,0.0025,0,0
+164342,47233,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4575,0.5425,0,0,0
+164292,61368,"test","Paid Off After Delinquency","Clean Paid Off",0.6825,0.3175,0,0,0
+164367,55264,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.9475,0.005,0.0125,0.0225
+164372,61389,"test","Clean Paid Off","Clean Paid Off",0.6025,0.3975,0,0,0
+164415,57997,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0425,0.815,0.1,0.035,0.0075
+164428,50278,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.995,0,0.0025,0
+164440,61418,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9825,0,0.015,0
+164444,48106,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.96,0,0.025,0
+164468,60049,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3325,0.6675,0,0,0
+164503,47032,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9925,0,0,0
+164516,61442,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0625,0.9375,0,0,0
+164647,61487,"test","Paid Off After Delinquency","Clean Paid Off",0.5725,0.425,0,0.0025,0
+164649,61490,"test","Paid Off After Delinquency","Clean Paid Off",0.545,0.455,0,0,0
+164634,61483,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4175,0.5425,0,0.035,0.005
+164676,61499,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2825,0.7025,0,0.015,0
+164749,61505,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4025,0.58,0.015,0.0025,0
+164759,61521,"test","Paid Off After Delinquency","Clean Paid Off",0.5175,0.4825,0,0,0
+164788,61526,"test","Clean Paid Off","Clean Paid Off",0.7775,0.2175,0,0.005,0
+164835,60026,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.96,0,0.0175,0.0025
+164878,49419,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0775,0.915,0.005,0.0025,0
+164919,61565,"test","Clean Paid Off","Clean Paid Off",0.6225,0.3725,0,0.005,0
+164940,61570,"test","Clean Paid Off","Clean Paid Off",0.6325,0.365,0,0.0025,0
+164945,61575,"test","Clean Paid Off","Clean Paid Off",0.725,0.275,0,0,0
+164953,61577,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.24,0.735,0.005,0.0075,0.0125
+164983,59007,"test","Clean Paid Off","Clean Paid Off",0.5625,0.435,0,0.0025,0
+165050,61178,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.8975,0.0025,0.085,0
+165094,49406,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.03,0.955,0.01,0.005,0
+165109,61606,"test","Paid Off After Delinquency","Clean Paid Off",0.605,0.395,0,0,0
+165130,56733,"test","Clean Paid Off","Clean Paid Off",0.66,0.34,0,0,0
+165141,57781,"test","Paid Off After Delinquency","Clean Paid Off",0.655,0.3425,0,0.0025,0
+165133,61648,"test","Clean Paid Off","Paid Off After Delinquency",0.39,0.5825,0.0225,0.005,0
+165312,61379,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3875,0.6075,0,0.005,0
+135627,53404,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0325,0.9675,0,0,0
+165310,61433,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.29,0.7075,0,0.0025,0
+165365,51548,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.04,0.9375,0,0.0225,0
+165377,57605,"test","Clean Paid Off","Clean Paid Off",0.78,0.22,0,0,0
+165410,48488,"test","Clean Paid Off","Clean Paid Off",0.9,0.0975,0,0.0025,0
+165490,61771,"test","Clean Paid Off","Clean Paid Off",0.615,0.385,0,0,0
+165526,61783,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.075,0.9075,0,0.0175,0
+165551,61795,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.36,0.64,0,0,0
+165685,52430,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0375,0.925,0,0.0375,0
+165732,59226,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.99,0,0,0
+165803,47306,"test","Clean Paid Off","Clean Paid Off",0.5025,0.4975,0,0,0
+165866,61914,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.08,0.92,0,0,0
+165913,61915,"test","Clean Paid Off","Clean Paid Off",0.665,0.3075,0.015,0.0125,0
+165946,48989,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.135,0.8525,0.0025,0.01,0
+165951,61937,"test","Clean Paid Off","Clean Paid Off",0.5075,0.4925,0,0,0
+166010,61925,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.9975,0,0.0025,0
+166028,61156,"test","Paid Off After Delinquency","Clean Paid Off",0.75,0.25,0,0,0
+166062,46010,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.05,0.9425,0,0.0075,0
+166110,62010,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2475,0.7525,0,0,0
+166154,61992,"test","Paid Off After Delinquency","Clean Paid Off",0.5625,0.4375,0,0,0
+166160,62026,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0725,0.9075,0,0.02,0
+166289,62057,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.9725,0,0.0025,0.02
+166430,58235,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0425,0.9575,0,0,0
+166567,62139,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.9875,0,0.0125,0
+166574,60797,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0725,0.8875,0,0.04,0
+166587,62145,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4475,0.525,0.025,0.0025,0
+166660,61007,"test","Clean Paid Off","Clean Paid Off",0.6825,0.3175,0,0,0
+166734,53459,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.985,0,0.005,0
+166691,60744,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0825,0.915,0,0.0025,0
+166846,62225,"test","Paid Off After Delinquency","Clean Paid Off",0.5075,0.4675,0,0.025,0
+166891,62240,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0625,0.935,0,0.0025,0
+166850,62227,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.085,0.9,0.0125,0.0025,0
+166956,46499,"test","Clean Paid Off","Clean Paid Off",0.63,0.3625,0.0075,0,0
+167020,62273,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.9225,0,0.055,0.0075
+167149,48795,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.47,0.5125,0.005,0.0125,0
+167216,50055,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.935,0.0025,0.03,0.005
+167246,62337,"test","Clean Paid Off","Clean Paid Off",0.6475,0.3525,0,0,0
+167269,59879,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2225,0.7675,0,0.01,0
+167335,62358,"test","Clean Paid Off","Paid Off After Delinquency",0.4475,0.5475,0,0.005,0
+167340,62371,"test","Paid Off After Delinquency","Clean Paid Off",0.705,0.29,0,0.005,0
+167388,62385,"test","Clean Paid Off","Paid Off After Delinquency",0.44,0.56,0,0,0
+167396,62387,"test","Clean Paid Off","Paid Off After Delinquency",0.3875,0.6,0,0.0125,0
+167392,58717,"test","Clean Paid Off","Clean Paid Off",0.6875,0.31,0,0.0025,0
+167475,61322,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.9875,0.0025,0,0
+167530,59678,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0675,0.9125,0,0.02,0
+167616,52510,"test","Paid Off After Delinquency","Clean Paid Off",0.6175,0.38,0,0.0025,0
+167666,62460,"test","Written Off","Paid Off After Delinquency",0.2,0.55,0.225,0.025,0
+167874,61062,"test","Clean Paid Off","Paid Off After Delinquency",0.3225,0.6775,0,0,0
+167919,59032,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.9875,0,0,0
+167944,62545,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.105,0.895,0,0,0
+167957,61775,"test","Clean Paid Off","Clean Paid Off",0.7875,0.2125,0,0,0
+167989,58985,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0875,0.8225,0,0.09,0
+168054,57230,"test","Clean Paid Off","Clean Paid Off",0.5025,0.495,0,0.0025,0
+168170,62104,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.11,0.89,0,0,0
+168245,62631,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.595,0.0075,0.395,0
+168355,49909,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.9775,0,0.0025,0.0025
+168375,62675,"test","Written Off","Paid Off After Delinquency",0.01,0.6725,0.085,0.195,0.0375
+168464,62561,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.99,0,0.005,0.0025
+168438,62699,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.98,0,0.015,0
+168479,59332,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.9825,0,0,0
+168539,48109,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3825,0.6175,0,0,0
+168657,62149,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3025,0.6975,0,0,0
+168635,58779,"test","Paid Off After Delinquency","Clean Paid Off",0.6025,0.345,0,0.0525,0
+168672,62782,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.985,0,0.0025,0
+169053,62917,"test","Clean Paid Off","Clean Paid Off",0.72,0.2775,0,0.0025,0
+169127,62342,"test","Clean Paid Off","Clean Paid Off",0.6225,0.3675,0,0.01,0
+169142,62947,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.87,0,0.125,0
+169151,59996,"test","Clean Paid Off","Paid Off After Delinquency",0.3825,0.6175,0,0,0
+168959,59520,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.975,0,0.005,0
+169272,49730,"test","Paid Off After Delinquency","Clean Paid Off",0.5625,0.435,0,0.0025,0
+169322,60070,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1275,0.8725,0,0,0
+169334,51738,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.985,0,0.0075,0.0025
+169304,62986,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.9825,0,0,0
+169373,51045,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1525,0.8425,0,0.005,0
+169483,62775,"test","Clean Paid Off","Paid Off After Delinquency",0.32,0.67,0,0.01,0
+169520,56994,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0725,0.91,0.005,0.0125,0
+169494,63032,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.9775,0,0.0175,0
+169515,57172,"test","Clean Paid Off","Clean Paid Off",0.685,0.315,0,0,0
+169697,59573,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9875,0,0.005,0
+169571,58407,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1675,0.8325,0,0,0
+169790,47423,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0325,0.965,0,0.0025,0
+169861,49220,"test","Clean Paid Off","Paid Off After Delinquency",0.4925,0.5075,0,0,0
+169880,61607,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.8525,0.005,0.1275,0
+169900,50713,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.995,0,0.005,0
+169988,49285,"test","Clean Paid Off","Clean Paid Off",0.755,0.2425,0,0.0025,0
+169989,60781,"test","Paid Off After Delinquency","Clean Paid Off",0.7075,0.2825,0,0.01,0
+169998,61144,"test","Paid Off After Delinquency","Clean Paid Off",0.5825,0.415,0.0025,0,0
+170134,63223,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.9925,0,0.0075,0
+170208,63243,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0975,0.8975,0,0.005,0
+170233,63252,"test","Clean Paid Off","Clean Paid Off",0.79,0.2075,0,0.0025,0
+170261,63184,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.03,0.9575,0,0.0125,0
+170264,63262,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0225,0.9725,0.0025,0,0.0025
+170328,63276,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.46,0.5375,0,0.0025,0
+170376,63009,"test","Clean Paid Off","Paid Off After Delinquency",0.365,0.63,0,0.0025,0.0025
+170393,58796,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.9825,0,0.0175,0
+170402,63305,"test","Paid Off After Delinquency","Clean Paid Off",0.6875,0.3125,0,0,0
+170462,45763,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0575,0.9425,0,0,0
+170468,46430,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0325,0.965,0,0.0025,0
+170599,59921,"test","Clean Paid Off","Paid Off After Delinquency",0.425,0.5725,0.0025,0,0
+170761,52329,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.96,0.01,0.03,0
+170707,63392,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0775,0.9225,0,0,0
+170726,63397,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.945,0,0.055,0
+170780,58630,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.97,0,0.03,0
+170778,63412,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4275,0.57,0,0.0025,0
+170799,63427,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.905,0,0.0825,0.005
+170859,60028,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.9775,0,0.0125,0
+171154,59395,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.9675,0,0.005,0
+171157,63495,"test","Clean Paid Off","Clean Paid Off",0.7225,0.275,0,0.0025,0
+171178,55798,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.9875,0,0,0
+171166,55942,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.07,0.9125,0.0025,0.0125,0.0025
+171240,63529,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9925,0,0.005,0
+171376,60489,"test","Clean Paid Off","Clean Paid Off",0.6725,0.325,0,0.0025,0
+171440,46816,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.055,0.855,0.0225,0.0625,0.005
+171361,63562,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9875,0.0025,0,0.0025
+171415,63573,"test","Clean Paid Off","Clean Paid Off",0.7775,0.2225,0,0,0
+171503,63561,"test","Clean Paid Off","Clean Paid Off",0.585,0.415,0,0,0
+171697,63303,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.095,0.88,0.0075,0.0175,0
+171720,63599,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0225,0.855,0,0.12,0.0025
+171828,63010,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0225,0.935,0,0.0375,0.005
+171834,48547,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.04,0.955,0,0.005,0
+171859,56285,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.15,0.845,0,0.005,0
+171969,60524,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.03,0.89,0.0025,0.07,0.0075
+172016,57923,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1025,0.895,0,0,0.0025
+172029,63759,"test","Clean Paid Off","Paid Off After Delinquency",0.3625,0.5975,0.015,0.025,0
+172061,63471,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3675,0.6325,0,0,0
+172092,60055,"test","Clean Paid Off","Clean Paid Off",0.595,0.4025,0,0.0025,0
+172096,63786,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.9875,0,0.0075,0
+172147,63802,"test","Clean Paid Off","Clean Paid Off",0.6075,0.3675,0.015,0.01,0
+172165,56101,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.925,0,0.055,0
+172199,63822,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9875,0,0.01,0
+172226,60058,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.085,0.9125,0,0.0025,0
+172364,55451,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.9875,0,0.0025,0
+172455,63525,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9975,0,0,0
+172486,63401,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.97,0.0075,0.0125,0
+172543,60791,"test","Clean Paid Off","Clean Paid Off",0.5625,0.435,0.0025,0,0
+172554,63166,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9575,0,0.04,0
+172608,63919,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.375,0.6225,0,0,0.0025
+172741,63963,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9375,0,0.055,0
+172799,59987,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.9825,0,0.005,0
+172866,63996,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.9975,0,0.0025,0
+172877,63987,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.985,0.0025,0.0025,0.0025
+172930,51938,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.8325,0,0.1525,0.005
+172965,59358,"test","Clean Paid Off","Paid Off After Delinquency",0.4075,0.5925,0,0,0
+173028,61734,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.9675,0,0.0125,0
+173047,46167,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0975,0.895,0.0025,0.005,0
+173179,64100,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.9525,0.0175,0.02,0
+173163,59322,"test","Clean Paid Off","Clean Paid Off",0.5825,0.4175,0,0,0
+173312,54822,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3275,0.6725,0,0,0
+173525,64179,"test","Clean Paid Off","Clean Paid Off",0.59,0.405,0.005,0,0
+173581,64212,"test","Paid Off After Delinquency","Clean Paid Off",0.5125,0.465,0.005,0.0175,0
+173742,64242,"test","Clean Paid Off","Paid Off After Delinquency",0.365,0.63,0,0.005,0
+173766,64252,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.19,0.8025,0,0.0075,0
+173872,53087,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.9875,0,0,0
+173867,64277,"test","Paid Off After Delinquency","Sold",0.0025,0.2375,0,0.7575,0.0025
+173957,63121,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.03,0.97,0,0,0
+173976,60672,"test","Clean Paid Off","Clean Paid Off",0.6375,0.3625,0,0,0
+174140,64357,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.99,0,0.0025,0.0025
+174188,46499,"test","Clean Paid Off","Paid Off After Delinquency",0.4975,0.5025,0,0,0
+174186,64328,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0675,0.9175,0,0.015,0
+174265,61846,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.975,0.0025,0.005,0
+174267,61301,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.99,0,0.01,0
+174294,64401,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4175,0.5675,0,0.015,0
+174290,64396,"test","Paid Off After Delinquency","Clean Paid Off",0.635,0.365,0,0,0
+174334,61321,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.975,0,0.025,0
+174430,64427,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4375,0.5575,0,0.005,0
+174546,62136,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.48,0.52,0,0,0
+174693,55783,"test","Paid Off After Delinquency","Clean Paid Off",0.62,0.3575,0.0025,0.02,0
+174710,64517,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.355,0.61,0.035,0,0
+174821,64524,"test","Clean Paid Off","Clean Paid Off",0.585,0.415,0,0,0
+174815,64547,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.035,0.96,0,0.005,0
+174859,64571,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3525,0.6075,0.0025,0.0375,0
+174898,64579,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4275,0.5325,0.04,0,0
+174929,64577,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3275,0.665,0.0075,0,0
+175045,62201,"test","Clean Paid Off","Paid Off After Delinquency",0.485,0.5075,0.0075,0,0
+175024,61820,"test","Clean Paid Off","Clean Paid Off",0.58,0.4125,0,0.0075,0
+175096,48986,"test","Clean Paid Off","Clean Paid Off",0.525,0.475,0,0,0
+175188,63485,"test","Clean Paid Off","Clean Paid Off",0.5625,0.42,0.005,0.0125,0
+175189,55176,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4975,0.5025,0,0,0
+175270,57758,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.98,0,0.005,0
+175305,64729,"test","Clean Paid Off","Clean Paid Off",0.5375,0.4625,0,0,0
+175320,54543,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0725,0.925,0,0.0025,0
+175339,64266,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.745,0,0.245,0.0025
+175398,46394,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.97,0,0.015,0
+175449,59904,"test","Paid Off After Delinquency","Clean Paid Off",0.595,0.3925,0,0.0125,0
+175458,64516,"test","Clean Paid Off","Paid Off After Delinquency",0.45,0.5375,0,0.0125,0
+175617,64619,"test","Clean Paid Off","Paid Off After Delinquency",0.4225,0.5775,0,0,0
+175676,62396,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.985,0,0.0025,0
+175702,62868,"test","Clean Paid Off","Clean Paid Off",0.745,0.255,0,0,0
+175748,58649,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.07,0.925,0,0.005,0
+175848,56985,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.98,0,0.005,0.0025
+175930,64925,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.965,0,0.0225,0
+175938,57380,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.9775,0,0.005,0
+176002,49844,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.9825,0,0.005,0
+176012,64972,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9925,0,0,0
+176170,62856,"test","Clean Paid Off","Paid Off After Delinquency",0.4825,0.5175,0,0,0
+176205,47187,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.97,0,0.0125,0.0025
+176239,65030,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2225,0.77,0.0025,0.005,0
+176319,65059,"test","Clean Paid Off","Paid Off After Delinquency",0.355,0.6425,0,0.0025,0
+176472,64701,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.9075,0.005,0.085,0.0025
+176483,65097,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.985,0,0.0125,0.0025
+176476,60272,"test","Clean Paid Off","Clean Paid Off",0.805,0.195,0,0,0
+176521,65111,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0375,0.9575,0,0.0025,0.0025
+176518,65109,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.125,0.875,0,0,0
+176547,65121,"test","Clean Paid Off","Clean Paid Off",0.5125,0.4875,0,0,0
+176499,62990,"test","Clean Paid Off","Clean Paid Off",0.5775,0.4225,0,0,0
+176746,65189,"test","Paid Off After Delinquency","Clean Paid Off",0.6175,0.3825,0,0,0
+176772,65195,"test","Paid Off After Delinquency","Clean Paid Off",0.5425,0.455,0,0.0025,0
+176787,48294,"test","Clean Paid Off","Clean Paid Off",0.54,0.445,0.0025,0.0125,0
+176912,63792,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.98,0,0.005,0
+176796,56516,"test","Clean Paid Off","Paid Off After Delinquency",0.41,0.59,0,0,0
+176901,62173,"test","Clean Paid Off","Clean Paid Off",0.6575,0.3425,0,0,0
+176927,57747,"test","Paid Off After Delinquency","Clean Paid Off",0.61,0.3875,0,0.0025,0
+177068,49568,"test","Clean Paid Off","Clean Paid Off",0.695,0.3025,0.0025,0,0
+177124,56648,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1525,0.8425,0,0.005,0
+177086,65308,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4425,0.5425,0,0.015,0
+177190,49529,"test","Clean Paid Off","Clean Paid Off",0.5375,0.4625,0,0,0
+177223,50973,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9775,0,0.015,0
+177298,61201,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.465,0.535,0,0,0
+177306,47557,"test","Paid Off After Delinquency","Clean Paid Off",0.5675,0.4175,0,0.015,0
+177367,65408,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.99,0,0.005,0
+177349,65396,"test","Clean Paid Off","Clean Paid Off",0.6125,0.38,0.0075,0,0
+177446,55306,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.975,0,0.0175,0
+177464,52059,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1925,0.8075,0,0,0
+177557,65450,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9825,0.0075,0,0.0075
+177569,57923,"test","Clean Paid Off","Clean Paid Off",0.5575,0.4375,0,0.005,0
+177637,65496,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2575,0.705,0.035,0.0025,0
+177649,49574,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.065,0.9275,0.0025,0.005,0
+177749,65525,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3375,0.66,0,0.0025,0
+177653,60543,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.155,0.8275,0.005,0.0125,0
+178041,65576,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.485,0.505,0.0075,0.0025,0
+178073,57170,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.92,0.005,0.07,0.005
+178149,65196,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.9725,0,0.0075,0
+178140,65634,"test","Clean Paid Off","Clean Paid Off",0.69,0.3075,0.0025,0,0
+178179,65648,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.06,0.9275,0,0.0125,0
+178197,60717,"test","Paid Off After Delinquency","Clean Paid Off",0.5575,0.435,0,0.0075,0
+178213,62923,"test","Clean Paid Off","Clean Paid Off",0.52,0.48,0,0,0
+178238,55550,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.84,0.005,0.135,0.0125
+178273,65618,"test","Paid Off After Delinquency","Clean Paid Off",0.6775,0.3125,0.01,0,0
+178298,56056,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.89,0.005,0.095,0.0075
+178303,56841,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.215,0.78,0,0.005,0
+178315,58501,"test","Clean Paid Off","Clean Paid Off",0.6,0.4,0,0,0
+178394,65713,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.7175,0.0175,0.235,0.0125
+178419,64192,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.32,0.6475,0.0075,0.005,0.02
+178463,59472,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.035,0.9575,0.0025,0.0025,0.0025
+178472,64888,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.065,0.92,0,0.015,0
+178474,58801,"test","Clean Paid Off","Clean Paid Off",0.6875,0.3125,0,0,0
+178489,63985,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.7625,0,0.205,0.025
+178517,65696,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.96,0,0.005,0.0075
+178538,63124,"test","Clean Paid Off","Clean Paid Off",0.52,0.47,0,0.01,0
+178583,64474,"test","Paid Off After Delinquency","Clean Paid Off",0.51,0.485,0.0025,0.0025,0
+178636,46709,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.9875,0,0.0025,0
+178736,65820,"test","Clean Paid Off","Paid Off After Delinquency",0.3475,0.65,0,0.0025,0
+178742,65822,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.9,0.005,0.055,0.025
+178781,65832,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.9775,0.0025,0.01,0
+178786,65602,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.15,0.84,0,0.01,0
+178851,65870,"test","Clean Paid Off","Clean Paid Off",0.7075,0.2925,0,0,0
+178863,63342,"test","Clean Paid Off","Clean Paid Off",0.64,0.3575,0,0.0025,0
+178928,64947,"test","Clean Paid Off","Paid Off After Delinquency",0.3425,0.6575,0,0,0
+178950,65896,"test","Paid Off After Delinquency","Clean Paid Off",0.5775,0.4225,0,0,0
+179091,62578,"test","Clean Paid Off","Paid Off After Delinquency",0.465,0.535,0,0,0
+179088,63170,"test","Clean Paid Off","Paid Off After Delinquency",0.4425,0.5225,0,0.0325,0.0025
+179151,65474,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.985,0,0,0
+179160,65968,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.98,0,0.0025,0.0075
+179182,56994,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.9975,0.0025,0,0
+179214,61760,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.28,0.7125,0,0.0075,0
+179251,60882,"test","Clean Paid Off","Paid Off After Delinquency",0.46,0.54,0,0,0
+179312,62264,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0575,0.9425,0,0,0
+179327,66029,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.9025,0.015,0.0675,0.005
+179391,63122,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.45,0.5375,0.0025,0.01,0
+179407,50653,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.475,0.5075,0,0.015,0.0025
+179449,66070,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3375,0.58,0.08,0.0025,0
+179580,65585,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9825,0.0025,0.005,0.0025
+179579,66051,"test","Paid Off After Delinquency","Clean Paid Off",0.635,0.3525,0.0125,0,0
+179677,64464,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.155,0.845,0,0,0
+179680,61667,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9925,0,0,0
+179707,61017,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.495,0.4975,0,0.0075,0
+179685,66151,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9825,0,0.015,0
+179756,66186,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1125,0.8875,0,0,0
+179801,63759,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.32,0.6625,0.005,0.0075,0.005
+179855,66216,"test","Clean Paid Off","Clean Paid Off",0.7325,0.2625,0,0.005,0
+180011,60689,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1025,0.8975,0,0,0
+180081,53058,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.985,0,0.005,0
+180162,63690,"test","Clean Paid Off","Clean Paid Off",0.635,0.35,0,0.015,0
+180184,62829,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.095,0.905,0,0,0
+180306,64075,"test","Clean Paid Off","Clean Paid Off",0.565,0.4325,0,0.0025,0
+180372,66407,"test","Paid Off After Delinquency","Clean Paid Off",0.6175,0.375,0.0075,0,0
+180491,66438,"test","Clean Paid Off","Clean Paid Off",0.625,0.3625,0.01,0.0025,0
+180514,66443,"test","Clean Paid Off","Paid Off After Delinquency",0.365,0.635,0,0,0
+180643,66477,"test","Paid Off After Delinquency","Clean Paid Off",0.6425,0.3525,0,0.005,0
+180652,65736,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,0.865,0.005,0.13,0
+180760,53783,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4725,0.5275,0,0,0
+180678,66489,"test","Clean Paid Off","Clean Paid Off",0.615,0.38,0,0.005,0
+180756,55723,"test","Paid Off After Delinquency","Clean Paid Off",0.62,0.375,0,0.005,0
+180736,66504,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.81,0,0.165,0.0225
+180880,63058,"test","Clean Paid Off","Clean Paid Off",0.5975,0.385,0.0025,0.015,0
+180891,54884,"test","Clean Paid Off","Clean Paid Off",0.745,0.255,0,0,0
+180935,62266,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.035,0.96,0,0.005,0
+180961,54680,"test","Paid Off After Delinquency","Clean Paid Off",0.515,0.47,0,0.015,0
+180967,64306,"test","Paid Off After Delinquency","Clean Paid Off",0.5025,0.4975,0,0,0
+180996,61309,"test","Clean Paid Off","Clean Paid Off",0.8775,0.1225,0,0,0
+181061,61764,"test","Clean Paid Off","Clean Paid Off",0.79,0.2025,0.005,0.0025,0
+180955,62990,"test","Clean Paid Off","Clean Paid Off",0.545,0.455,0,0,0
+181184,61675,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9925,0,0.005,0
+181489,56126,"test","Clean Paid Off","Clean Paid Off",0.53,0.4425,0.0275,0,0
+181500,66694,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4975,0.5025,0,0,0
+181481,66774,"test","Clean Paid Off","Clean Paid Off",0.695,0.3025,0,0.0025,0
+181551,57758,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9975,0,0,0
+181527,66590,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9975,0,0,0
+181545,46767,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.985,0,0.0025,0
+181588,63239,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0575,0.9325,0,0.01,0
+181617,66832,"test","Paid Off After Delinquency","Clean Paid Off",0.64,0.3525,0.0025,0.005,0
+181697,66869,"test","Clean Paid Off","Clean Paid Off",0.59,0.41,0,0,0
+181736,65842,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.96,0.0025,0.02,0
+181759,46733,"test","Paid Off After Delinquency","Clean Paid Off",0.66,0.3375,0,0.0025,0
+181848,51045,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.045,0.9025,0.0175,0.0325,0.0025
+181887,66839,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9675,0,0.0275,0.0025
+181912,66948,"test","Clean Paid Off","Paid Off After Delinquency",0.42,0.5725,0.005,0.0025,0
+182048,60336,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.985,0,0.01,0
+182039,56021,"test","Paid Off After Delinquency","Clean Paid Off",0.53,0.4625,0.005,0.0025,0
+182064,66939,"test","Clean Paid Off","Clean Paid Off",0.65,0.335,0.0125,0,0.0025
+182129,67021,"test","Clean Paid Off","Clean Paid Off",0.8825,0.1125,0,0.005,0
+182158,67033,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.145,0.84,0.0025,0.0025,0.01
+182174,65760,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.345,0.6525,0,0.0025,0
+182285,60475,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1625,0.8275,0,0.01,0
+182284,58816,"test","Paid Off After Delinquency","Clean Paid Off",0.695,0.275,0.03,0,0
+182453,67086,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9875,0.005,0,0.005
+182549,67171,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.98,0,0,0
+182605,52059,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0675,0.925,0,0.0075,0
+182635,66753,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.985,0.0025,0,0
+182610,67186,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.995,0,0,0.0025
+182664,55914,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0825,0.9175,0,0,0
+182688,65082,"test","Written Off","Clean Paid Off",0.5075,0.445,0.0475,0,0
+182712,66866,"test","Clean Paid Off","Clean Paid Off",0.76,0.24,0,0,0
+182733,63834,"test","Clean Paid Off","Clean Paid Off",0.7525,0.2475,0,0,0
+182838,67279,"test","Clean Paid Off","Clean Paid Off",0.9025,0.0975,0,0,0
+182928,59032,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.98,0,0,0
+182969,67285,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.9825,0,0.0125,0
+182995,60543,"test","Clean Paid Off","Paid Off After Delinquency",0.46,0.535,0,0.005,0
+183037,63793,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0375,0.9625,0,0,0
+183221,67406,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.99,0,0,0.0025
+183242,67408,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.295,0.7,0.005,0,0
+183379,54348,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.985,0,0,0
+183340,53360,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.985,0,0.0025,0
+183495,67515,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.275,0.715,0.0075,0.0025,0
+183490,67513,"test","Clean Paid Off","Clean Paid Off",0.6775,0.3225,0,0,0
+183544,63443,"test","Clean Paid Off","Clean Paid Off",0.6425,0.3575,0,0,0
+183643,67498,"test","Clean Paid Off","Paid Off After Delinquency",0.1725,0.815,0.01,0.0025,0
+183670,67511,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.29,0.7075,0,0.0025,0
+183723,67201,"test","Clean Paid Off","Clean Paid Off",0.6575,0.3425,0,0,0
+183815,46925,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.995,0,0,0
+183890,64465,"test","Clean Paid Off","Clean Paid Off",0.895,0.105,0,0,0
+184019,53783,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.395,0.605,0,0,0
+184071,66816,"test","Paid Off After Delinquency","Clean Paid Off",0.6075,0.385,0,0.0075,0
+184069,67750,"test","Clean Paid Off","Clean Paid Off",0.7725,0.2275,0,0,0
+184100,67753,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.105,0.895,0,0,0
+184320,46151,"test","Clean Paid Off","Clean Paid Off",0.51,0.49,0,0,0
+184395,67836,"test","Clean Paid Off","Clean Paid Off",0.5525,0.4475,0,0,0
+184424,67874,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0475,0.9375,0,0.0125,0.0025
+184522,64875,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.98,0,0,0
+184526,66312,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2875,0.7125,0,0,0
+184532,65224,"test","Clean Paid Off","Clean Paid Off",0.5375,0.46,0,0.0025,0
+184557,67921,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.085,0.91,0,0.005,0
+184636,67947,"test","Clean Paid Off","Clean Paid Off",0.72,0.28,0,0,0
+184846,63533,"test","Paid Off After Delinquency","Clean Paid Off",0.52,0.4775,0,0.0025,0
+184888,67997,"test","Clean Paid Off","Clean Paid Off",0.6375,0.36,0.0025,0,0
+184952,63799,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0375,0.95,0,0.0125,0
+185019,56832,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.05,0.9175,0,0.0125,0.02
+185070,68036,"test","Paid Off After Delinquency","Clean Paid Off",0.72,0.28,0,0,0
+185093,56333,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.9625,0,0.01,0
+185114,67852,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.9725,0.0025,0.01,0.0025
+185106,68042,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9125,0,0.08,0
+185128,68096,"test","Clean Paid Off","Clean Paid Off",0.655,0.345,0,0,0
+185141,68134,"test","Clean Paid Off","Paid Off After Delinquency",0.4325,0.5675,0,0,0
+185175,68146,"test","Paid Off After Delinquency","Clean Paid Off",0.61,0.39,0,0,0
+185218,68143,"test","Clean Paid Off","Paid Off After Delinquency",0.4875,0.51,0,0.0025,0
+185239,67489,"test","Clean Paid Off","Clean Paid Off",0.8,0.195,0,0.005,0
+185309,68203,"test","Paid Off After Delinquency","Clean Paid Off",0.6525,0.3275,0.02,0,0
+185489,68151,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.99,0,0.005,0
+185521,54176,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.98,0,0,0
+185593,68321,"test","Paid Off After Delinquency","Clean Paid Off",0.58,0.4075,0.0125,0,0
+185601,48986,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9925,0,0,0
+185722,68397,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.7,0.0025,0.105,0.19
+185734,60042,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.995,0,0.0025,0
+185954,61541,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.985,0,0.0025,0
+185912,62104,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.08,0.915,0,0.005,0
+186066,64438,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0475,0.95,0,0.0025,0
+186121,49285,"test","Clean Paid Off","Clean Paid Off",0.755,0.2425,0,0.0025,0
+186150,66596,"test","Clean Paid Off","Paid Off After Delinquency",0.4875,0.4925,0.0025,0.015,0.0025
+186303,68593,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3275,0.6625,0.01,0,0
+186331,68126,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.995,0,0,0.0025
+186377,63124,"test","Clean Paid Off","Clean Paid Off",0.6575,0.335,0.0025,0.005,0
+186375,53261,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.9825,0,0.0075,0
+186550,68683,"test","Clean Paid Off","Paid Off After Delinquency",0.335,0.6575,0.0075,0,0
+186604,48294,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.045,0.9525,0,0.0025,0
+186661,68736,"test","Clean Paid Off","Clean Paid Off",0.705,0.295,0,0,0
+186706,66097,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.7025,0.23,0.0525,0
+186777,64995,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0025,0.9975,0,0,0
+186807,63525,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.99,0,0.0025,0
+186828,68073,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0925,0.9075,0,0,0
+186881,68407,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.06,0.94,0,0,0
+186984,68886,"test","Paid Off After Delinquency","Paid Off After Delinquency",0,1,0,0,0
+186977,68881,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1025,0.8925,0,0.005,0
+186994,68888,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.7875,0.005,0.2025,0
+187110,66174,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9875,0,0.005,0
+187182,68419,"test","Clean Paid Off","Clean Paid Off",0.6775,0.31,0.0125,0,0
+187309,68452,"test","Clean Paid Off","Clean Paid Off",0.6125,0.3875,0,0,0
+187308,58289,"test","Clean Paid Off","Paid Off After Delinquency",0.4375,0.5575,0,0.005,0
+187440,66427,"test","Clean Paid Off","Clean Paid Off",0.5925,0.4075,0,0,0
+187472,69102,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0925,0.9075,0,0,0
+187475,69105,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2475,0.75,0,0.0025,0
+187487,60070,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.44,0.56,0,0,0
+187558,63351,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.9725,0,0,0
+187616,58547,"test","Clean Paid Off","Clean Paid Off",0.56,0.44,0,0,0
+187676,69192,"test","Other Terminal / Special Closure","Clean Paid Off",0.6275,0.3475,0,0.0025,0.0225
+187739,55176,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.09,0.91,0,0,0
+187749,65554,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.09,0.9075,0.0025,0,0
+187912,69293,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.12,0.88,0,0,0
+188057,68880,"test","Clean Paid Off","Clean Paid Off",0.7075,0.2925,0,0,0
+188119,63613,"test","Paid Off After Delinquency","Clean Paid Off",0.7975,0.2025,0,0,0
+188221,69439,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.415,0.585,0,0,0
+188411,64619,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.195,0.805,0,0,0
+188460,57629,"test","Clean Paid Off","Clean Paid Off",0.6075,0.3875,0.005,0,0
+188469,69551,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0875,0.905,0,0.0025,0.005
+188562,65261,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2275,0.77,0,0.0025,0
+188614,54014,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.035,0.965,0,0,0
+188691,54601,"test","Clean Paid Off","Clean Paid Off",0.775,0.225,0,0,0
+188744,46991,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.9825,0,0,0
+188749,61423,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.9925,0.0025,0,0
+188751,63884,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.07,0.93,0,0,0
+188781,69703,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.9775,0,0,0.0025
+189000,69826,"test","Clean Paid Off","Clean Paid Off",0.6975,0.3025,0,0,0
+189054,69846,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.025,0.8625,0.0025,0.0125,0.0975
+189062,69853,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0325,0.9675,0,0,0
+189104,69873,"test","Clean Paid Off","Clean Paid Off",0.765,0.235,0,0,0
+189265,62104,"test","Clean Paid Off","Clean Paid Off",0.58,0.42,0,0,0
+189279,69955,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.895,0,0.0075,0.085
+189310,65224,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.38,0.6175,0,0.0025,0
+189320,67463,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1625,0.815,0,0.0075,0.015
+151185,57765,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4425,0.555,0,0.0025,0
+189678,70124,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.06,0.9375,0,0,0.0025
+189732,48591,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0675,0.9325,0,0,0
+189847,55715,"test","Clean Paid Off","Clean Paid Off",0.595,0.405,0,0,0
+189857,70158,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.035,0.9225,0.005,0.02,0.0175
+189882,70231,"test","Clean Paid Off","Clean Paid Off",0.6725,0.32,0,0,0.0075
+189925,70267,"test","Clean Paid Off","Clean Paid Off",0.95,0.05,0,0,0
+189975,65740,"test","Clean Paid Off","Clean Paid Off",0.565,0.4325,0.0025,0,0
+190078,67261,"test","Clean Paid Off","Clean Paid Off",0.5875,0.4125,0,0,0
+190152,66494,"test","Clean Paid Off","Clean Paid Off",0.6925,0.3075,0,0,0
+190175,70393,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.985,0,0,0.0025
+190192,70398,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0575,0.9425,0,0,0
+190200,70298,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.9825,0,0,0.0025
+190371,70463,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.14,0.86,0,0,0
+190417,70456,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.025,0.9675,0,0,0.0075
+190475,70513,"test","Paid Off After Delinquency","Clean Paid Off",0.5225,0.4775,0,0,0
+190488,70461,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.13,0.8675,0,0.0025,0
+190491,70523,"test","Clean Paid Off","Clean Paid Off",0.5425,0.4575,0,0,0
+190590,64920,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0425,0.955,0,0.0025,0
+190725,70639,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.255,0.7425,0.0025,0,0
+190729,70637,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1575,0.8425,0,0,0
+190737,70643,"test","Clean Paid Off","Clean Paid Off",0.68,0.32,0,0,0
+190817,67365,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.98,0,0,0.0025
+190853,65005,"test","Clean Paid Off","Paid Off After Delinquency",0.06,0.94,0,0,0
+190873,70675,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1025,0.895,0.0025,0,0
+190891,58289,"test","Clean Paid Off","Clean Paid Off",0.7225,0.2775,0,0,0
+190862,70689,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.16,0.84,0,0,0
+190951,68488,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.9925,0,0,0
+191076,61182,"test","Clean Paid Off","Clean Paid Off",0.7575,0.2425,0,0,0
+191084,70775,"test","Clean Paid Off","Clean Paid Off",0.8925,0.105,0,0,0.0025
+191150,63124,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1225,0.8775,0,0,0
+191166,70806,"test","Paid Off After Delinquency","Clean Paid Off",0.695,0.3025,0,0,0.0025
+191245,66042,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0525,0.9475,0,0,0
+191250,60042,"test","Clean Paid Off","Clean Paid Off",0.7475,0.2525,0,0,0
+191268,66176,"test","Clean Paid Off","Clean Paid Off",0.6325,0.3675,0,0,0
+191265,64021,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1625,0.8375,0,0,0
+191366,61775,"test","Clean Paid Off","Clean Paid Off",0.8125,0.1875,0,0,0
+191450,70925,"test","Clean Paid Off","Clean Paid Off",0.865,0.1325,0,0,0.0025
+191453,65896,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2975,0.7,0,0.0025,0
+191534,65045,"test","Clean Paid Off","Clean Paid Off",0.7725,0.2275,0,0,0
+191627,70933,"test","Clean Paid Off","Clean Paid Off",0.7325,0.2675,0,0,0
+191710,67342,"test","Clean Paid Off","Clean Paid Off",0.6475,0.3525,0,0,0
+191904,66103,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4925,0.5075,0,0,0
+191953,71183,"test","Clean Paid Off","Clean Paid Off",0.8375,0.1575,0,0,0.005
+191954,64146,"test","Clean Paid Off","Clean Paid Off",0.54,0.46,0,0,0
+191982,70458,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.9725,0,0,0
+189369,70000,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.8875,0,0.0075,0.0775
+191996,62244,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.03,0.9675,0,0.0025,0
+192027,71225,"test","Paid Off After Delinquency","Clean Paid Off",0.5875,0.4125,0,0,0
+192175,66206,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.9825,0,0,0
+192138,71178,"test","Clean Paid Off","Clean Paid Off",0.645,0.355,0,0,0
+192166,71057,"test","Clean Paid Off","Clean Paid Off",0.8875,0.1125,0,0,0
+192291,71241,"test","Clean Paid Off","Clean Paid Off",0.6425,0.3575,0,0,0
+192336,64244,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1075,0.8925,0,0,0
+192343,71386,"test","Clean Paid Off","Clean Paid Off",0.8675,0.1325,0,0,0
+192460,64761,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0325,0.875,0.0725,0.02,0
+192690,63351,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.215,0.785,0,0,0
+192679,70123,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3775,0.61,0.0025,0,0.01
+192804,64691,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1675,0.8325,0,0,0
+192768,63026,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0975,0.9025,0,0,0
+192809,68428,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.225,0.775,0,0,0
+192798,71595,"test","Clean Paid Off","Clean Paid Off",0.6575,0.3425,0,0,0
+193100,45920,"test","Paid Off After Delinquency","Clean Paid Off",0.655,0.345,0,0,0
+193152,54314,"test","Clean Paid Off","Clean Paid Off",0.6925,0.3,0,0.0025,0.005
+193174,65706,"test","Clean Paid Off","Clean Paid Off",0.8775,0.1225,0,0,0
+193359,71870,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.045,0.955,0,0,0
+193445,65820,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1625,0.835,0,0.0025,0
+193514,71908,"test","Clean Paid Off","Clean Paid Off",0.685,0.3125,0,0.0025,0
+194006,57395,"test","Clean Paid Off","Clean Paid Off",0.8025,0.1975,0,0,0
+194052,72162,"test","Clean Paid Off","Clean Paid Off",0.8,0.2,0,0,0
+194198,60964,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.215,0.785,0,0,0
+194170,72270,"test","Paid Off After Delinquency","Clean Paid Off",0.635,0.365,0,0,0
+194432,66898,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.05,0.95,0,0,0
+194540,63337,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.97,0,0.0025,0
+194564,72443,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.9825,0,0,0
+194680,72425,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2525,0.745,0,0.0025,0
+194717,71472,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0575,0.9425,0,0,0
+194812,70750,"test","Clean Paid Off","Clean Paid Off",0.55,0.45,0,0,0
+194916,63438,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.985,0,0,0
+194645,71635,"test","Clean Paid Off","Clean Paid Off",0.545,0.455,0,0,0
+195072,72706,"test","Clean Paid Off","Clean Paid Off",0.685,0.3125,0.0025,0,0
+195254,52463,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.9875,0.0025,0,0
+195291,45716,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.08,0.92,0,0,0
+195353,70990,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1325,0.8675,0,0,0
+195425,72904,"test","Clean Paid Off","Clean Paid Off",0.79,0.21,0,0,0
+195461,67408,"test","Clean Paid Off","Clean Paid Off",0.8125,0.1875,0,0,0
+195713,71515,"test","Clean Paid Off","Clean Paid Off",0.57,0.43,0,0,0
+195749,73115,"test","Clean Paid Off","Clean Paid Off",0.5725,0.42,0.005,0,0.0025
+195978,73251,"test","Clean Paid Off","Clean Paid Off",0.5325,0.465,0,0.0025,0
+196127,73324,"test","Clean Paid Off","Clean Paid Off",0.725,0.275,0,0,0
+196192,66266,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.985,0,0,0
+196264,61775,"test","Clean Paid Off","Paid Off After Delinquency",0.1475,0.8525,0,0,0
+196301,54942,"test","Clean Paid Off","Clean Paid Off",0.805,0.195,0,0,0
+196437,63124,"test","Clean Paid Off","Paid Off After Delinquency",0.0975,0.9025,0,0,0
+196570,73521,"test","Clean Paid Off","Clean Paid Off",0.865,0.135,0,0,0
+196699,66554,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.03,0.97,0,0,0
+197009,73727,"test","Paid Off After Delinquency","Clean Paid Off",0.7725,0.2275,0,0,0
+197068,73759,"test","Clean Paid Off","Clean Paid Off",0.775,0.225,0,0,0
+197157,57230,"test","Paid Off After Delinquency","Clean Paid Off",0.4975,0.4975,0,0,0.005
+197203,65520,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.14,0.8575,0,0.0025,0
+197200,60559,"test","Clean Paid Off","Clean Paid Off",0.7525,0.2475,0,0,0
+197243,73826,"test","Clean Paid Off","Clean Paid Off",0.8625,0.1375,0,0,0
+197347,61760,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.8675,0.0275,0.07,0.0075
+197384,73856,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.365,0.635,0,0,0
+197499,64210,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.08,0.92,0,0,0
+197509,73902,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4475,0.5525,0,0,0
+197526,69972,"test","Clean Paid Off","Clean Paid Off",0.58,0.37,0,0,0.05
+197536,65773,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.065,0.9325,0,0.0025,0
+197525,68768,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.03,0.97,0,0,0
+197579,53746,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.415,0.5825,0,0,0.0025
+197633,54348,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1925,0.8075,0,0,0
+197653,74018,"test","Paid Off After Delinquency","Clean Paid Off",0.83,0.17,0,0,0
+197880,74102,"test","Paid Off After Delinquency","Clean Paid Off",0.7775,0.2225,0,0,0
+197968,70842,"test","Paid Off After Delinquency","Clean Paid Off",0.64,0.36,0,0,0
+198008,74146,"test","Paid Off After Delinquency","Clean Paid Off",0.74,0.235,0,0,0.025
+198107,74198,"test","Clean Paid Off","Clean Paid Off",0.89,0.11,0,0,0
+198165,74161,"test","Clean Paid Off","Paid Off After Delinquency",0.475,0.5,0,0.0025,0.0225
+198197,73724,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.09,0.895,0,0.01,0.005
+198315,63274,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.03,0.965,0,0.0025,0.0025
+198433,74315,"test","Clean Paid Off","Clean Paid Off",0.7575,0.2425,0,0,0
+198441,74314,"test","Clean Paid Off","Clean Paid Off",0.7675,0.2325,0,0,0
+198472,71651,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.185,0.81,0,0,0.005
+198484,74177,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.35,0.6475,0,0,0.0025
+198497,74346,"test","Other Terminal / Special Closure","Paid Off After Delinquency",0.035,0.895,0.0375,0.0325,0
+198520,74344,"test","Clean Paid Off","Clean Paid Off",0.585,0.3875,0,0,0.0275
+198578,74329,"test","Clean Paid Off","Clean Paid Off",0.865,0.135,0,0,0
+198635,69236,"test","Clean Paid Off","Clean Paid Off",0.7575,0.2425,0,0,0
+198664,70182,"test","Paid Off After Delinquency","Clean Paid Off",0.6775,0.3225,0,0,0
+198720,63257,"test","Clean Paid Off","Clean Paid Off",0.64,0.36,0,0,0
+198783,71750,"test","Clean Paid Off","Clean Paid Off",0.515,0.485,0,0,0
+198877,70330,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0225,0.9775,0,0,0
+199093,55255,"test","Clean Paid Off","Clean Paid Off",0.7325,0.2675,0,0,0
+199129,73805,"test","Clean Paid Off","Clean Paid Off",0.62,0.375,0.0025,0.0025,0
+198848,74369,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.14,0.86,0,0,0
+199161,74608,"test","Clean Paid Off","Paid Off After Delinquency",0.4075,0.5925,0,0,0
+199166,70539,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0425,0.9475,0.0075,0.0025,0
+199247,73873,"test","Clean Paid Off","Clean Paid Off",0.78,0.22,0,0,0
+199278,74659,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.47,0.53,0,0,0
+199335,74676,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.42,0.5775,0,0,0.0025
+199419,74715,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.225,0.7725,0,0.0025,0
+199434,74733,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.9725,0.0025,0.01,0.005
+199652,63124,"test","Paid Off After Delinquency","Clean Paid Off",0.64,0.36,0,0,0
+199658,70714,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0225,0.9775,0,0,0
+199636,57336,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.985,0,0.0025,0
+199715,74841,"test","Paid Off After Delinquency","Clean Paid Off",0.8,0.2,0,0,0
+199752,74851,"test","Paid Off After Delinquency","Clean Paid Off",0.7625,0.2375,0,0,0
+199765,74874,"test","Clean Paid Off","Clean Paid Off",0.77,0.23,0,0,0
+199939,74949,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.98,0,0,0
+199975,74192,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.9875,0,0,0
+199979,74956,"test","Paid Off After Delinquency","Clean Paid Off",0.805,0.195,0,0,0
+200199,75035,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0825,0.9175,0,0,0
+200211,71325,"test","Clean Paid Off","Clean Paid Off",0.665,0.335,0,0,0
+200237,54014,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.315,0.685,0,0,0
+200274,52614,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.04,0.96,0,0,0
+200268,74843,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1275,0.8725,0,0,0
+200293,73566,"test","Clean Paid Off","Paid Off After Delinquency",0.4125,0.5875,0,0,0
+200368,72528,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.25,0.75,0,0,0
+200364,73907,"test","Clean Paid Off","Clean Paid Off",0.7225,0.2725,0,0,0.005
+200386,46399,"test","Clean Paid Off","Clean Paid Off",0.815,0.185,0,0,0
+200417,75102,"test","Paid Off After Delinquency","Clean Paid Off",0.72,0.28,0,0,0
+200536,49486,"test","Clean Paid Off","Paid Off After Delinquency",0.235,0.765,0,0,0
+200563,73841,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.095,0.9025,0,0.0025,0
+200627,72783,"test","Paid Off After Delinquency","Clean Paid Off",0.5625,0.4375,0,0,0
+200669,74530,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.345,0.655,0,0,0
+200670,75252,"test","Clean Paid Off","Clean Paid Off",0.89,0.11,0,0,0
+201014,65729,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2125,0.7875,0,0,0
+200985,73989,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1525,0.84,0,0.0025,0.005
+200941,71386,"test","Clean Paid Off","Clean Paid Off",0.595,0.405,0,0,0
+201204,74997,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.025,0.925,0.0025,0.015,0.0325
+201287,75539,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.07,0.93,0,0,0
+201275,74890,"test","Clean Paid Off","Paid Off After Delinquency",0.475,0.525,0,0,0
+201324,75552,"test","Clean Paid Off","Clean Paid Off",0.6775,0.3225,0,0,0
+201371,75568,"test","Paid Off After Delinquency","Clean Paid Off",0.685,0.315,0,0,0
+201459,67557,"test","Clean Paid Off","Clean Paid Off",0.6125,0.3875,0,0,0
+201482,74510,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0825,0.9175,0,0,0
+201563,47294,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.98,0,0,0
+201679,75679,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3225,0.6625,0.0025,0.0125,0
+201756,75668,"test","Clean Paid Off","Paid Off After Delinquency",0.4425,0.555,0,0.0025,0
+201846,69729,"test","Clean Paid Off","Clean Paid Off",0.675,0.325,0,0,0
+201820,67071,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.9725,0,0,0
+201905,75794,"test","Clean Paid Off","Clean Paid Off",0.575,0.425,0,0,0
+201972,52443,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0825,0.9175,0,0,0
+202139,67602,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.985,0,0,0
+202187,50888,"test","Clean Paid Off","Clean Paid Off",0.8075,0.1925,0,0,0
+202204,75245,"test","Clean Paid Off","Clean Paid Off",0.725,0.275,0,0,0
+202269,57599,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.9825,0,0,0
+202316,73776,"test","Paid Off After Delinquency","Clean Paid Off",0.5925,0.4075,0,0,0
+202329,63485,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.025,0.9725,0,0.0025,0
+202389,74361,"test","Clean Paid Off","Clean Paid Off",0.8525,0.1475,0,0,0
+202554,76100,"test","Paid Off After Delinquency","Clean Paid Off",0.505,0.4925,0,0.0025,0
+202584,72707,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.98,0,0,0
+202734,73236,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4225,0.5775,0,0,0
+202757,76144,"test","Clean Paid Off","Clean Paid Off",0.885,0.115,0,0,0
+202796,73383,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.9825,0.0025,0,0
+202922,75639,"test","Clean Paid Off","Clean Paid Off",0.5275,0.4725,0,0,0
+203093,74726,"test","Clean Paid Off","Paid Off After Delinquency",0.105,0.895,0,0,0
+203125,76335,"test","Paid Off After Delinquency","Clean Paid Off",0.5725,0.425,0,0.0025,0
+203256,67945,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.9825,0,0,0
+203422,76480,"test","Clean Paid Off","Clean Paid Off",0.8,0.2,0,0,0
+203547,62186,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.065,0.935,0,0,0
+203517,74096,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.23,0.77,0,0,0
+203590,60042,"test","Clean Paid Off","Clean Paid Off",0.94,0.06,0,0,0
+203688,66206,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.025,0.975,0,0,0
+203721,57011,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.29,0.705,0.0025,0.0025,0
+203677,60398,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0875,0.9125,0,0,0
+203789,66103,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2275,0.77,0,0.0025,0
+203801,76611,"test","Paid Off After Delinquency","Clean Paid Off",0.795,0.205,0,0,0
+203834,75004,"test","Clean Paid Off","Clean Paid Off",0.7,0.3,0,0,0
+203910,71325,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.215,0.785,0,0,0
+204045,76718,"test","Clean Paid Off","Clean Paid Off",0.73,0.27,0,0,0
+204143,74000,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.38,0.62,0,0,0
+204063,76622,"test","Clean Paid Off","Clean Paid Off",0.805,0.195,0,0,0
+204085,69587,"test","Clean Paid Off","Clean Paid Off",0.73,0.27,0,0,0
+204180,76769,"test","Clean Paid Off","Paid Off After Delinquency",0.1025,0.8975,0,0,0
+204216,76744,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.995,0,0,0
+204275,76798,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.4925,0.5075,0,0,0
+204303,75757,"test","Paid Off After Delinquency","Clean Paid Off",0.6625,0.3375,0,0,0
+204413,76194,"test","Paid Off After Delinquency","Clean Paid Off",0.5025,0.495,0.0025,0,0
+204743,75188,"test","Clean Paid Off","Clean Paid Off",0.7675,0.2325,0,0,0
+204786,76940,"test","Paid Off After Delinquency","Clean Paid Off",0.5975,0.4,0.0025,0,0
+204914,53087,"test","Clean Paid Off","Clean Paid Off",0.8125,0.1875,0,0,0
+205039,67861,"test","Clean Paid Off","Clean Paid Off",0.7075,0.2925,0,0,0
+205051,74732,"test","Clean Paid Off","Clean Paid Off",0.505,0.4925,0,0,0.0025
+205064,68257,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.9775,0,0.0025,0
+205099,77051,"test","Clean Paid Off","Clean Paid Off",0.755,0.245,0,0,0
+205150,77088,"test","Clean Paid Off","Paid Off After Delinquency",0.455,0.5425,0,0.0025,0
+205411,77163,"test","Clean Paid Off","Clean Paid Off",0.755,0.245,0,0,0
+205523,77119,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.955,0.0125,0.01,0.0025
+205545,69260,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.03,0.97,0,0,0
+205548,77249,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2475,0.7525,0,0,0
+205654,66411,"test","Clean Paid Off","Clean Paid Off",0.6475,0.3525,0,0,0
+205736,77323,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.225,0.7725,0,0,0.0025
+205934,71212,"test","Clean Paid Off","Paid Off After Delinquency",0.0825,0.9175,0,0,0
+206177,63673,"test","Clean Paid Off","Clean Paid Off",0.7325,0.2675,0,0,0
+206219,61775,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1575,0.84,0,0.0025,0
+206283,68910,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.9575,0.005,0.0225,0
+206332,76369,"test","Clean Paid Off","Clean Paid Off",0.7975,0.2025,0,0,0
+206328,77596,"test","Paid Off After Delinquency","Clean Paid Off",0.585,0.41,0,0.005,0
+206340,72482,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.98,0,0,0
+206383,64678,"test","Clean Paid Off","Clean Paid Off",0.8025,0.1975,0,0,0
+206418,77626,"test","Clean Paid Off","Clean Paid Off",0.81,0.19,0,0,0
+206505,77486,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.99,0,0,0
+206566,76530,"test","Clean Paid Off","Clean Paid Off",0.7,0.3,0,0,0
+206754,75096,"test","Clean Paid Off","Clean Paid Off",0.7175,0.2825,0,0,0
+206741,77765,"test","Clean Paid Off","Clean Paid Off",0.9275,0.0725,0,0,0
+206777,77780,"test","Clean Paid Off","Clean Paid Off",0.5775,0.4225,0,0,0
+206790,77679,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.07,0.9275,0,0.0025,0
+206968,75186,"test","Paid Off After Delinquency","Clean Paid Off",0.6575,0.3425,0,0,0
+207207,77825,"test","Clean Paid Off","Clean Paid Off",0.8275,0.1725,0,0,0
+207230,77952,"test","Clean Paid Off","Clean Paid Off",0.6,0.3975,0,0,0.0025
+207251,74797,"test","Clean Paid Off","Clean Paid Off",0.84,0.16,0,0,0
+207255,77944,"test","Paid Off After Delinquency","Clean Paid Off",0.7375,0.2625,0,0,0
+207317,77998,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.345,0.6525,0,0.0025,0
+207368,71795,"test","Clean Paid Off","Clean Paid Off",0.6775,0.32,0,0,0.0025
+207536,78112,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.9525,0.0075,0.01,0.0025
+207668,77226,"test","Clean Paid Off","Clean Paid Off",0.615,0.3825,0,0.0025,0
+207702,57957,"test","Paid Off After Delinquency","Clean Paid Off",0.655,0.345,0,0,0
+207766,76804,"test","Clean Paid Off","Clean Paid Off",0.79,0.21,0,0,0
+207815,73989,"test","Clean Paid Off","Clean Paid Off",0.62,0.38,0,0,0
+208067,78137,"test","Clean Paid Off","Clean Paid Off",0.615,0.3825,0,0,0.0025
+208110,78256,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3775,0.6225,0,0,0
+208123,68452,"test","Clean Paid Off","Clean Paid Off",0.8475,0.1525,0,0,0
+208327,76254,"test","Clean Paid Off","Clean Paid Off",0.7225,0.2775,0,0,0
+208355,78416,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1525,0.845,0,0.0025,0
+208494,78469,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.075,0.925,0,0,0
+208493,78477,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.41,0.58,0.0075,0.0025,0
+208497,78483,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.105,0.895,0,0,0
+208501,78193,"test","Paid Off After Delinquency","Clean Paid Off",0.7625,0.235,0,0.0025,0
+208438,78439,"test","Clean Paid Off","Clean Paid Off",0.89,0.11,0,0,0
+208552,45956,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.135,0.865,0,0,0
+208581,73566,"test","Paid Off After Delinquency","Clean Paid Off",0.515,0.485,0,0,0
+208620,66554,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0075,0.99,0,0.0025,0
+208633,78530,"test","Clean Paid Off","Clean Paid Off",0.7825,0.2125,0,0,0.005
+208654,78541,"test","Clean Paid Off","Clean Paid Off",0.665,0.335,0,0,0
+208664,67279,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3175,0.6825,0,0,0
+208811,78602,"test","Clean Paid Off","Paid Off After Delinquency",0.41,0.5875,0,0.0025,0
+208810,69680,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2325,0.7625,0,0.005,0
+208855,64780,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0225,0.9775,0,0,0
+208886,78624,"test","Clean Paid Off","Clean Paid Off",0.8525,0.1475,0,0,0
+208922,78639,"test","Clean Paid Off","Clean Paid Off",0.745,0.2525,0,0.0025,0
+208615,76040,"test","Clean Paid Off","Clean Paid Off",0.6275,0.3725,0,0,0
+209244,78787,"test","Clean Paid Off","Clean Paid Off",0.8275,0.1725,0,0,0
+209345,58289,"test","Clean Paid Off","Clean Paid Off",0.9425,0.0575,0,0,0
+209384,76744,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.025,0.9725,0,0.0025,0
+209456,73727,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0225,0.9775,0,0,0
+209557,78883,"test","Paid Off After Delinquency","Clean Paid Off",0.69,0.31,0,0,0
+209699,69972,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.26,0.7375,0,0.0025,0
+209707,76512,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0325,0.96,0,0.0075,0
+209744,69105,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1175,0.8825,0,0,0
+209896,77724,"test","Clean Paid Off","Clean Paid Off",0.6875,0.3125,0,0,0
+209952,79047,"test","Clean Paid Off","Clean Paid Off",0.7825,0.2175,0,0,0
+209974,57069,"test","Clean Paid Off","Paid Off After Delinquency",0.1675,0.8325,0,0,0
+210041,73805,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0775,0.92,0,0.0025,0
+210198,79032,"test","Clean Paid Off","Clean Paid Off",0.83,0.17,0,0,0
+210240,79189,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.9725,0,0,0
+210286,74715,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.065,0.935,0,0,0
+210310,76457,"test","Paid Off After Delinquency","Clean Paid Off",0.61,0.39,0,0,0
+210355,79237,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0125,0.985,0,0.0025,0
+210602,79340,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.08,0.9175,0,0,0.0025
+210681,46919,"test","Clean Paid Off","Clean Paid Off",0.8,0.2,0,0,0
+210701,79260,"test","Paid Off After Delinquency","Clean Paid Off",0.6025,0.395,0,0,0.0025
+210712,65397,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0325,0.95,0.0025,0,0.015
+210732,74732,"test","Other Terminal / Special Closure","Clean Paid Off",0.615,0.385,0,0,0
+210753,79369,"test","Paid Off After Delinquency","Clean Paid Off",0.4975,0.4975,0.0025,0.0025,0
+210786,74638,"test","Paid Off After Delinquency","Clean Paid Off",0.605,0.395,0,0,0
+210803,52606,"test","Clean Paid Off","Clean Paid Off",0.5875,0.41,0.0025,0,0
+210872,78516,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.265,0.7325,0,0.0025,0
+210876,79453,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0375,0.96,0.0025,0,0
+210893,79403,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.205,0.795,0,0,0
+210925,63085,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.98,0,0,0
+211002,73482,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.9725,0,0,0
+211040,79523,"test","Paid Off After Delinquency","Clean Paid Off",0.6825,0.315,0,0,0.0025
+211083,77627,"test","Clean Paid Off","Paid Off After Delinquency",0.1575,0.84,0.0025,0,0
+211173,54014,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0775,0.915,0,0.0025,0.005
+211180,79573,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.225,0.7675,0.005,0.0025,0
+211235,79341,"test","Clean Paid Off","Paid Off After Delinquency",0.31,0.69,0,0,0
+211281,79630,"test","Clean Paid Off","Clean Paid Off",0.72,0.275,0.005,0,0
+211284,74882,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.065,0.93,0,0.0025,0.0025
+211484,79721,"test","Clean Paid Off","Clean Paid Off",0.87,0.13,0,0,0
+211524,76148,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.065,0.93,0,0.005,0
+211583,72355,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.9775,0.005,0,0
+211518,73980,"test","Paid Off After Delinquency","Clean Paid Off",0.5,0.5,0,0,0
+211630,79766,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.48,0.52,0,0,0
+211611,70797,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0375,0.9625,0,0,0
+211703,77582,"test","Clean Paid Off","Clean Paid Off",0.64,0.36,0,0,0
+211822,49406,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.305,0.695,0,0,0
+211832,57148,"test","Paid Off After Delinquency","Clean Paid Off",0.7175,0.2825,0,0,0
+211887,71020,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.9825,0,0,0
+211997,62428,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3275,0.6725,0,0,0
+211994,79933,"test","Paid Off After Delinquency","Clean Paid Off",0.56,0.4375,0,0,0.0025
+212035,79015,"test","Clean Paid Off","Clean Paid Off",0.8475,0.1525,0,0,0
+212216,80040,"test","Clean Paid Off","Clean Paid Off",0.94,0.06,0,0,0
+212194,80035,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2575,0.7425,0,0,0
+212209,79890,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0525,0.9475,0,0,0
+212187,80030,"test","Clean Paid Off","Clean Paid Off",0.61,0.39,0,0,0
+212280,63525,"test","Clean Paid Off","Clean Paid Off",0.895,0.105,0,0,0
+212351,80121,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0875,0.91,0,0.0025,0
+212698,48334,"test","Clean Paid Off","Clean Paid Off",0.55,0.45,0,0,0
+212733,76996,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.095,0.9,0,0,0.005
+212754,67770,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.9775,0,0.0025,0
+213098,46161,"test","Clean Paid Off","Clean Paid Off",0.895,0.105,0,0,0
+213102,74914,"test","Clean Paid Off","Clean Paid Off",0.7875,0.2125,0,0,0
+213127,66868,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1225,0.875,0,0,0.0025
+213177,77952,"test","Clean Paid Off","Clean Paid Off",0.7075,0.29,0,0,0.0025
+213221,79801,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1225,0.875,0,0,0.0025
+213418,47525,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.095,0.905,0,0,0
+213486,77825,"test","Clean Paid Off","Clean Paid Off",0.7925,0.2075,0,0,0
+213558,79655,"test","Clean Paid Off","Clean Paid Off",0.79,0.2075,0,0,0.0025
+213575,60587,"test","Paid Off After Delinquency","Clean Paid Off",0.7375,0.2625,0,0,0
+213641,51876,"test","Clean Paid Off","Clean Paid Off",0.7525,0.2475,0,0,0
+213789,79457,"test","Clean Paid Off","Clean Paid Off",0.8025,0.1975,0,0,0
+212022,75106,"test","Paid Off After Delinquency","Clean Paid Off",0.6725,0.3275,0,0,0
+213954,66206,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.035,0.965,0,0,0
+213961,80065,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.11,0.89,0,0,0
+214103,74555,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2025,0.79,0,0.0025,0.005
+214271,79859,"test","Clean Paid Off","Clean Paid Off",0.8175,0.1825,0,0,0
+214313,70990,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.03,0.97,0,0,0
+214290,80125,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.06,0.9375,0,0.0025,0
+214468,70970,"test","Clean Paid Off","Clean Paid Off",0.6175,0.38,0,0,0.0025
+214683,74140,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.49,0.505,0,0.005,0
+214519,76157,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.41,0.59,0,0,0
+215037,49682,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.13,0.865,0,0.005,0
+215029,65622,"test","Clean Paid Off","Clean Paid Off",0.5625,0.4375,0,0,0
+215178,66202,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.065,0.925,0,0.005,0.005
+215203,79442,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.9725,0,0,0
+215324,76360,"test","Clean Paid Off","Clean Paid Off",0.64,0.3575,0,0.0025,0
+215409,79667,"test","Clean Paid Off","Paid Off After Delinquency",0.48,0.515,0,0,0.005
+215410,77947,"test","Paid Off After Delinquency","Clean Paid Off",0.6625,0.3375,0,0,0
+215575,80065,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.21,0.79,0,0,0
+215708,62923,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0675,0.93,0,0,0.0025
+215828,49560,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.185,0.8075,0,0.0025,0.005
+215835,75873,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1925,0.8025,0,0.0025,0.0025
+215939,55241,"test","Clean Paid Off","Clean Paid Off",0.72,0.28,0,0,0
+215985,69236,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.05,0.9475,0,0.0025,0
+215975,75560,"test","Paid Off After Delinquency","Clean Paid Off",0.665,0.335,0,0,0
+216002,50297,"test","Clean Paid Off","Clean Paid Off",0.575,0.425,0,0,0
+216037,60107,"test","Clean Paid Off","Clean Paid Off",0.745,0.2525,0,0,0.0025
+216173,67071,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2475,0.7525,0,0,0
+216193,64678,"test","Clean Paid Off","Clean Paid Off",0.69,0.31,0,0,0
+215359,53908,"test","Clean Paid Off","Clean Paid Off",0.7,0.3,0,0,0
+216376,69670,"test","Clean Paid Off","Clean Paid Off",0.59,0.41,0,0,0
+216394,78463,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.18,0.805,0,0.0075,0.0075
+216456,75206,"test","Clean Paid Off","Clean Paid Off",0.7675,0.22,0,0,0.0125
+216553,47233,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.405,0.595,0,0,0
+216691,76597,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0825,0.9025,0,0.0125,0.0025
+216895,76921,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.035,0.965,0,0,0
+216934,52891,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.97,0,0.0025,0
+217017,73873,"test","Clean Paid Off","Clean Paid Off",0.605,0.3825,0,0.0025,0.01
+217274,59641,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0425,0.9525,0,0.005,0
+217245,72532,"test","Clean Paid Off","Clean Paid Off",0.7575,0.2425,0,0,0
+218094,79951,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0725,0.9275,0,0,0
+219019,61029,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0475,0.9525,0,0,0
+219641,69972,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.06,0.9375,0,0.0025,0
+218348,54884,"test","Clean Paid Off","Paid Off After Delinquency",0.185,0.815,0,0,0
+219683,68855,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.465,0.5325,0,0,0.0025
+221031,76996,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.035,0.965,0,0,0
+222031,63749,"test","Clean Paid Off","Clean Paid Off",0.6925,0.305,0,0,0.0025
+223051,79442,"test","Paid Off After Delinquency","Clean Paid Off",0.6675,0.3325,0,0,0
+223389,77456,"test","Clean Paid Off","Clean Paid Off",0.555,0.44,0,0,0.005
+223049,79105,"test","Paid Off After Delinquency","Clean Paid Off",0.5475,0.4525,0,0,0
+224568,67553,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0175,0.9725,0,0.0025,0.0075
+225053,71895,"test","Clean Paid Off","Paid Off After Delinquency",0.295,0.705,0,0,0
+225020,57057,"test","Clean Paid Off","Clean Paid Off",0.6325,0.3575,0.005,0,0.005
+225077,74361,"test","Clean Paid Off","Clean Paid Off",0.77,0.23,0,0,0
+225686,49095,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3975,0.6025,0,0,0
+219435,62684,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.01,0.99,0,0,0
+226220,75189,"test","Paid Off After Delinquency","Clean Paid Off",0.675,0.3225,0,0.0025,0
+227760,70834,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0925,0.9075,0,0,0
+232094,63257,"test","Clean Paid Off","Clean Paid Off",0.685,0.315,0,0,0
+233116,51938,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0575,0.9425,0,0,0
+233336,55470,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0375,0.96,0,0,0.0025
+233956,69396,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.07,0.93,0,0,0
+233711,70758,"test","Clean Paid Off","Clean Paid Off",0.7025,0.2925,0,0.005,0
+235093,65773,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.9775,0,0.0025,0
+235197,78656,"test","Clean Paid Off","Clean Paid Off",0.695,0.305,0,0,0
+235556,72874,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.02,0.98,0,0,0
+235840,64237,"test","Clean Paid Off","Clean Paid Off",0.785,0.215,0,0,0
+235990,69111,"test","Paid Off After Delinquency","Clean Paid Off",0.5,0.4575,0.0025,0,0.04
+236684,72872,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0775,0.92,0.0025,0,0
+236888,72163,"test","Clean Paid Off","Clean Paid Off",0.78,0.2025,0.0025,0,0.015
+236934,60042,"test","Clean Paid Off","Clean Paid Off",0.765,0.235,0,0,0
+238827,71715,"test","Clean Paid Off","Clean Paid Off",0.7425,0.2525,0,0,0.005
+239384,54942,"test","Clean Paid Off","Clean Paid Off",0.9075,0.0925,0,0,0
+239582,77911,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1275,0.84,0.0175,0.015,0
+239615,69656,"test","Clean Paid Off","Clean Paid Off",0.56,0.4325,0,0,0.0075
+240470,50992,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0375,0.9625,0,0,0
+241272,55153,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1025,0.89,0.0025,0.005,0
+243423,76360,"test","Clean Paid Off","Clean Paid Off",0.705,0.2925,0,0,0.0025
+243870,72982,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1075,0.815,0.02,0.0475,0.01
+244064,46962,"test","Clean Paid Off","Clean Paid Off",0.6675,0.3325,0,0,0
+244525,77686,"test","Clean Paid Off","Clean Paid Off",0.795,0.205,0,0,0
+244677,46226,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.085,0.895,0,0,0.02
+245713,79642,"test","Clean Paid Off","Paid Off After Delinquency",0.3775,0.6175,0,0.0025,0.0025
+247635,68932,"test","Clean Paid Off","Clean Paid Off",0.77,0.23,0,0,0
+246913,73202,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.9725,0,0,0
+248663,49247,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0675,0.9325,0,0,0
+249033,69125,"test","Clean Paid Off","Clean Paid Off",0.88,0.12,0,0,0
+249458,73241,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.015,0.985,0,0,0
+249791,75808,"test","Clean Paid Off","Paid Off After Delinquency",0.2375,0.76,0.0025,0,0
+249837,74083,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.09,0.9075,0,0,0.0025
+250317,65187,"test","Clean Paid Off","Paid Off After Delinquency",0.2775,0.7225,0,0,0
+250845,47547,"test","Clean Paid Off","Clean Paid Off",0.695,0.305,0,0,0
+250998,74072,"test","Clean Paid Off","Clean Paid Off",0.5525,0.4475,0,0,0
+252464,65932,"test","Clean Paid Off","Clean Paid Off",0.91,0.09,0,0,0
+252727,79543,"test","Clean Paid Off","Clean Paid Off",0.815,0.1825,0,0,0.0025
+253870,72872,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.235,0.7625,0,0.0025,0
+255695,59370,"test","Clean Paid Off","Clean Paid Off",0.8125,0.18,0.0025,0,0.005
+255930,79459,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.005,0.995,0,0,0
+256112,79859,"test","Clean Paid Off","Clean Paid Off",0.545,0.455,0,0,0
+258307,79614,"test","Clean Paid Off","Clean Paid Off",0.6725,0.3225,0,0,0.005
+260676,77849,"test","Paid Off After Delinquency","Clean Paid Off",0.525,0.475,0,0,0
+261532,64331,"test","Paid Off After Delinquency","Clean Paid Off",0.595,0.405,0,0,0
+262429,47306,"test","Clean Paid Off","Clean Paid Off",0.7925,0.2075,0,0,0
+263110,57241,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.3,0.7,0,0,0
+263799,70357,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.2625,0.73,0,0.0025,0.005
+265285,76254,"test","Clean Paid Off","Clean Paid Off",0.795,0.2,0.0025,0,0.0025
+266675,73587,"test","Clean Paid Off","Clean Paid Off",0.755,0.245,0,0,0
+269814,57011,"test","Clean Paid Off","Clean Paid Off",0.925,0.075,0,0,0
+270733,70066,"test","Clean Paid Off","Clean Paid Off",0.6825,0.315,0,0,0.0025
+272322,80062,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.185,0.815,0,0,0
+272705,79237,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0225,0.9775,0,0,0
+272905,58289,"test","Clean Paid Off","Paid Off After Delinquency",0.275,0.725,0,0,0
+273627,66267,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.045,0.955,0,0,0
+275434,73613,"test","Clean Paid Off","Clean Paid Off",0.765,0.2325,0,0,0.0025
+274415,58165,"test","Clean Paid Off","Clean Paid Off",0.68,0.32,0,0,0
+276570,66260,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.33,0.67,0,0,0
+277402,76048,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.075,0.925,0,0,0
+278621,64276,"test","Clean Paid Off","Clean Paid Off",0.8325,0.165,0.0025,0,0
+278707,68409,"test","Clean Paid Off","Clean Paid Off",0.785,0.215,0,0,0
+279594,67512,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0475,0.95,0,0.0025,0
+282939,67071,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.46,0.5375,0,0,0.0025
+284482,60398,"test","Clean Paid Off","Paid Off After Delinquency",0.075,0.925,0,0,0
+286128,71606,"test","Clean Paid Off","Clean Paid Off",0.8125,0.1875,0,0,0
+287607,79380,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.285,0.715,0,0,0
+292717,47706,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.045,0.955,0,0,0
+293472,51382,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0475,0.95,0,0,0.0025
+294588,53123,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.1525,0.845,0,0,0.0025
+296558,71599,"test","Paid Off After Delinquency","Paid Off After Delinquency",0.0275,0.9725,0,0,0

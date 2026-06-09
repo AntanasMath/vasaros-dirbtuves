@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560">
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#516070"/>
+</marker>
+</defs>
+<rect width="1280" height="560" fill="#f7f8fb"/>
+<text x="34" y="40" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#172033">Accepted Credit Lifecycle</text>
+<text x="34" y="66" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="400" fill="#556070">Time flows left to right. Source fields are shown inside each lifecycle stage.</text>
+<line x1="72" y1="485" x2="1190" y2="485" stroke="#8994a3" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="1168" y="512" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#556070">time</text>
+<rect x="40" y="118" width="210" height="126" rx="8" fill="#e9f2ff" stroke="#243047" stroke-width="1.2"/>
+<text x="54" y="143" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Customer</text>
+<text x="54" y="166" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">export_customers.customer_id</text>
+<text x="54" y="184" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">created / age / gender</text>
+<text x="54" y="202" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">history aggregates</text>
+<rect x="300" y="118" width="220" height="126" rx="8" fill="#e9f8ef" stroke="#243047" stroke-width="1.2"/>
+<text x="314" y="143" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Credit issued</text>
+<text x="314" y="166" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">export_credits.id</text>
+<text x="314" y="184" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">customer_id / created</text>
+<text x="314" y="202" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">amount / period / expire</text>
+<rect x="570" y="118" width="240" height="126" rx="8" fill="#f0ecff" stroke="#243047" stroke-width="1.2"/>
+<text x="584" y="143" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Approval details</text>
+<text x="584" y="166" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">export_credits_decisions.credit_id</text>
+<text x="584" y="184" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">approve_date / confirm_date</text>
+<text x="584" y="202" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">decision_info / info</text>
+<rect x="860" y="105" width="250" height="150" rx="8" fill="#fff4df" stroke="#243047" stroke-width="1.2"/>
+<text x="874" y="130" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Repayment plan</text>
+<text x="874" y="153" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">export_credits.schedule</text>
+<text x="874" y="171" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">date / opening balance</text>
+<text x="874" y="189" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">due amount per period</text>
+<text x="874" y="207" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">planned, not necessarily paid</text>
+<rect x="860" y="285" width="250" height="122" rx="8" fill="#e8f7fb" stroke="#243047" stroke-width="1.2"/>
+<text x="874" y="310" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Optional monthly signals</text>
+<text x="874" y="333" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">export_creditline_paydays.date</text>
+<text x="874" y="351" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">debt / delay / max_delay</text>
+<text x="874" y="369" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">extension requests if present</text>
+<rect x="1125" y="70" width="125" height="98" rx="8" fill="#edf7ed" stroke="#243047" stroke-width="1.2"/>
+<text x="1139" y="95" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Completed</text>
+<text x="1139" y="118" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">paid set</text>
+<text x="1139" y="136" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">debt = 0</text>
+<text x="1139" y="154" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">max_delay = 0</text>
+<rect x="1125" y="220" width="125" height="110" rx="8" fill="#ffe7e7" stroke="#243047" stroke-width="1.2"/>
+<text x="1139" y="245" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Default</text>
+<text x="1139" y="268" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">unpaid debt</text>
+<text x="1139" y="286" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">high delay</text>
+<text x="1139" y="304" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">sold/writeoff</text>
+<rect x="1125" y="382" width="125" height="105" rx="8" fill="#eef3ff" stroke="#243047" stroke-width="1.2"/>
+<text x="1139" y="407" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Active current</text>
+<text x="1139" y="430" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">paid empty</text>
+<text x="1139" y="448" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">delay = 0</text>
+<text x="1139" y="466" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">future expire</text>
+<line x1="250" y1="181" x2="300" y2="181" stroke="#516070" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="520" y1="181" x2="570" y2="181" stroke="#516070" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="810" y1="181" x2="860" y2="181" stroke="#516070" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="985" y1="255" x2="985" y2="285" stroke="#516070" stroke-width="2" marker-end="url(#arrow)" stroke-dasharray="6 5"/>
+<line x1="1110" y1="180" x2="1125" y2="120" stroke="#516070" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="1110" y1="205" x2="1125" y2="275" stroke="#516070" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="1110" y1="360" x2="1125" y2="435" stroke="#516070" stroke-width="2" marker-end="url(#arrow)"/>
+</svg>

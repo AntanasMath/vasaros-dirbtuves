@@ -1,0 +1,289 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage{array}
+
+\title{Loan Final Outcome Prediction: Data Cleaning, Landmark Features, and Baseline Models}
+\author{CO-KTU Workshop Credit Platform Analysis}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section{Objective}
+
+The modelling objective is to predict the final lifecycle outcome of an issued loan that is still active at a given observation point. The unit of analysis is a loan, identified by \texttt{credit\_id}, not a borrower. A borrower may therefore contribute multiple loan-level observations.
+
+The current version uses a landmark modelling approach. Separate prediction datasets are constructed for the 30-day, 60-day, and 90-day landmarks. For a landmark \(t \in \{30,60,90\}\), only information observed from loan origination through day \(t\) is used:
+\[
+X_i(t) = \{\text{static features}_i,\ \text{repayment and schedule summaries up to day } t\}.
+\]
+The target is the final terminal outcome after the loan lifecycle has ended.
+
+\section{Final Outcome Labels}
+
+Only terminal loans are used for supervised training. Loans that had not reached a terminal state by the data extraction date are treated as right-censored and excluded from the first-pass classification training dataset.
+
+The five mutually exclusive terminal labels are assigned by the following priority rule:
+
+\begin{enumerate}
+    \item \textbf{Sold}: \texttt{sold} has a valid date.
+    \item \textbf{Written Off}: \texttt{writeoff} or \texttt{writeoff\_a} is positive, excluding loans already labelled as sold.
+    \item \textbf{Clean Paid Off}: \texttt{paid} has a valid date, final debt is zero, \texttt{max\_delay = 0}, and \texttt{late\_fee = 0}.
+    \item \textbf{Paid Off After Delinquency}: \texttt{paid} has a valid date and final debt is zero, but delay or fee signals exist.
+    \item \textbf{Other Terminal / Special Closure}: terminal or special closure signals exist but do not fit the four main labels.
+\end{enumerate}
+
+This priority rule forces each terminal loan into exactly one final outcome class.
+
+\section{Cleaned Modelling Dataset}
+
+The cleaned loan-level dataset is saved as:
+
+\begin{center}
+\texttt{data/modeling/loan\_modeling\_dataset.csv}
+\end{center}
+
+It contains 18,851 terminal loan rows and 116 columns. Table \ref{tab:label-distribution} shows the label distribution. The rare classes, especially \textit{Written Off} and \textit{Other Terminal / Special Closure}, are very small and should be interpreted cautiously.
+
+\begin{table}[h]
+\centering
+\caption{Final outcome label distribution in the cleaned dataset.}
+\label{tab:label-distribution}
+\begin{tabular}{lr}
+\toprule
+Final outcome & Loans \\
+\midrule
+Clean Paid Off & 10,318 \\
+Paid Off After Delinquency & 8,097 \\
+Sold & 398 \\
+Written Off & 28 \\
+Other Terminal / Special Closure & 10 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Landmark Eligibility}
+
+A loan is eligible for a landmark model only if its terminal date is later than the landmark day. For example, a loan that ends after 45 days is eligible for the 30-day model, but not for the 60-day or 90-day model.
+
+\begin{table}[h]
+\centering
+\caption{Eligible terminal loans by landmark.}
+\label{tab:eligibility}
+\begin{tabular}{lr}
+\toprule
+Landmark & Eligible terminal loans \\
+\midrule
+30 days & 12,895 \\
+60 days & 9,057 \\
+90 days & 7,254 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Feature Construction}
+
+The feature set combines conservative static variables and landmark-window summary variables. Variables that are only known after loan termination are excluded from model training, including \texttt{terminal\_date}, \texttt{loan\_duration\_days}, \texttt{final\_debt}, \texttt{final\_max\_delay}, and \texttt{final\_late\_fee}.
+
+\subsection{Static Features}
+
+Static features include loan contract variables and conservative borrower variables:
+
+\begin{itemize}
+    \item loan amount, period, charge, interest, administrative fee, APR, product and schedule type;
+    \item contract ratios such as charge-to-principal and amount per contract day;
+    \item borrower age, gender, income, dependents, work status, home status, region, and customer category;
+    \item credit-level SAS score when available.
+\end{itemize}
+
+Some customer-master aggregate fields, such as \texttt{credits\_paid}, \texttt{last\_payment\_date}, and \texttt{all\_paid}, are intentionally excluded because they are likely measured at extraction time and may contain future information relative to the landmark.
+
+\subsection{Window Features}
+
+For each landmark \(t \in \{30,60,90\}\), the script constructs features using only events dated on or before \(\texttt{loan\_created} + t\) days.
+
+Repayment features come from \texttt{payments\_credits\_202606081635.csv} joined to \texttt{payment\_202606081636.csv} using:
+\[
+\texttt{payments\_credits.payment\_id} = \texttt{payment.id}.
+\]
+The loan-level join is:
+\[
+\texttt{payments\_credits.credit\_id} = \texttt{export\_credits.id}.
+\]
+
+For each window, the following actual repayment features are calculated:
+
+\begin{itemize}
+    \item payment count and total paid amount;
+    \item principal paid, interest paid, administrative fee paid, late fee paid, penalty paid, and charge paid;
+    \item extension-related payment count and total;
+    \item days to first payment and days since last payment at the landmark.
+\end{itemize}
+
+Scheduled repayment features come from \texttt{credits\_schedules\_all.csv}:
+
+\begin{itemize}
+    \item scheduled due installments;
+    \item scheduled due total, principal, interest, and administrative fee.
+\end{itemize}
+
+The model also uses derived repayment-performance features:
+\[
+\texttt{payment\_gap}_{i,t} = \texttt{scheduled\_due\_total}_{i,t} - \texttt{payment\_total}_{i,t},
+\]
+\[
+\texttt{principal\_recovery\_rate}_{i,t}
+= \frac{\texttt{principal\_paid}_{i,t}}{\texttt{loan\_amount}_{i}},
+\]
+\[
+\texttt{paid\_to\_due\_ratio}_{i,t}
+= \frac{\texttt{payment\_total}_{i,t}}{\texttt{scheduled\_due\_total}_{i,t}}.
+\]
+
+Extension request features come from \texttt{export\_credit\_ext\_requests.csv}: request count, completed extension count, extension price, and extension period sum.
+
+\section{Training Procedure}
+
+For each landmark, the eligible terminal loans are split into train, validation, and test sets using stratified random sampling with an approximate 60/20/20 split within each final-outcome class.
+
+Two baseline models are trained:
+
+\begin{enumerate}
+    \item \textbf{Multinomial logistic regression}: a linear, interpretable baseline.
+    \item \textbf{Random forest}: a tree-based nonlinear baseline.
+\end{enumerate}
+
+The local runtime did not include LightGBM, XGBoost, or CatBoost. Therefore, random forest is used as the first tree-based baseline. The same cleaned dataset can later be used to train a gradient boosting model.
+
+\section{Model Results}
+
+Table \ref{tab:model-results} summarizes validation and test performance. Accuracy, macro F1, weighted F1, and log loss are reported. Macro F1 is important because the final outcome classes are highly imbalanced.
+
+\begin{table}[h]
+\centering
+\caption{Model performance by landmark.}
+\label{tab:model-results}
+\begin{tabular}{llrrrr}
+\toprule
+Landmark & Model & Accuracy & Macro F1 & Weighted F1 & Log loss \\
+\midrule
+30d & Logistic regression & 0.7143 & 0.5650 & 0.7261 & 0.7043 \\
+30d & Random forest & 0.7708 & 0.6739 & 0.7702 & 0.4994 \\
+60d & Logistic regression & 0.7475 & 0.5534 & 0.7561 & 0.6150 \\
+60d & Random forest & 0.7959 & 0.6967 & 0.7926 & 0.4699 \\
+90d & Logistic regression & 0.7591 & 0.6221 & 0.7696 & 0.7403 \\
+90d & Random forest & 0.7927 & 0.5717 & 0.7866 & 0.4479 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The random forest consistently outperforms multinomial logistic regression in accuracy, weighted F1, and log loss. The 60-day random forest gives the strongest overall test result, with accuracy of 0.7959 and macro F1 of 0.6967.
+
+The rare terminal classes remain difficult to predict. In particular, \textit{Written Off} and \textit{Other Terminal / Special Closure} have very few observations. Their precision and recall estimates are therefore unstable and should not be over-interpreted.
+
+\section{SHAP-Based Model Interpretation}
+
+SHAP analysis is performed for the 60-day random forest, because this model has the strongest overall test performance. A Monte Carlo Shapley approximation is used on a stratified test sample. To keep computation tractable, the analysis is restricted to the top 20 random-forest importance features. For each sampled loan, the algorithm starts from a baseline observation and repeatedly adds features in random order, measuring the marginal change in each final-outcome probability.
+
+The SHAP values are therefore class-specific probability contributions. Larger mean absolute SHAP values indicate stronger influence on the probability of a given final outcome. Table \ref{tab:shap-clean-paid} through Table \ref{tab:shap-written-off} show the top SHAP features for the main outcome classes.
+
+\begin{table}[h]
+\centering
+\caption{Top SHAP features for \textit{Clean Paid Off}, 60-day random forest.}
+\label{tab:shap-clean-paid}
+\begin{tabular}{lrr}
+\toprule
+Feature & Mean abs. SHAP & Mean SHAP \\
+\midrule
+\texttt{w60d\_principal\_recovery\_rate} & 0.0495 & -0.0224 \\
+\texttt{w60d\_days\_to\_first\_payment} & 0.0478 & -0.0019 \\
+\texttt{w60d\_late\_fee\_paid} & 0.0471 & -0.0471 \\
+\texttt{customer\_category\_id} & 0.0438 & -0.0435 \\
+\texttt{w60d\_total\_paid\_to\_due\_ratio} & 0.0426 & -0.0426 \\
+\texttt{w60d\_payment\_gap} & 0.0408 & -0.0373 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\caption{Top SHAP features for \textit{Paid Off After Delinquency}, 60-day random forest.}
+\label{tab:shap-paid-late}
+\begin{tabular}{lrr}
+\toprule
+Feature & Mean abs. SHAP & Mean SHAP \\
+\midrule
+\texttt{customer\_category\_id} & 0.0595 & -0.0498 \\
+\texttt{w60d\_late\_fee\_paid} & 0.0499 & 0.0499 \\
+\texttt{w60d\_days\_to\_first\_payment} & 0.0471 & 0.0049 \\
+\texttt{w60d\_principal\_recovery\_rate} & 0.0408 & 0.0179 \\
+\texttt{w60d\_total\_paid\_to\_due\_ratio} & 0.0346 & 0.0346 \\
+\texttt{w60d\_payment\_gap} & 0.0343 & 0.0340 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\caption{Top SHAP features for \textit{Sold}, 60-day random forest.}
+\label{tab:shap-sold}
+\begin{tabular}{lrr}
+\toprule
+Feature & Mean abs. SHAP & Mean SHAP \\
+\midrule
+\texttt{customer\_category\_id} & 0.0497 & 0.0497 \\
+\texttt{w60d\_payment\_total} & 0.0117 & 0.0095 \\
+\texttt{w60d\_payment\_gap} & 0.0110 & 0.0067 \\
+\texttt{w60d\_total\_paid\_to\_due\_ratio} & 0.0099 & 0.0084 \\
+\texttt{w60d\_principal\_paid} & 0.0085 & 0.0078 \\
+\texttt{w60d\_principal\_recovery\_rate} & 0.0081 & 0.0051 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\caption{Top SHAP features for \textit{Written Off}, 60-day random forest.}
+\label{tab:shap-written-off}
+\begin{tabular}{lrr}
+\toprule
+Feature & Mean abs. SHAP & Mean SHAP \\
+\midrule
+\texttt{customer\_category\_id} & 0.0432 & 0.0432 \\
+\texttt{w60d\_days\_to\_first\_payment} & 0.0038 & -0.0037 \\
+\texttt{w60d\_late\_fee\_paid} & 0.0035 & -0.0035 \\
+\texttt{w60d\_payment\_gap} & 0.0035 & -0.0035 \\
+\texttt{contract\_charge\_per\_day} & 0.0027 & -0.0007 \\
+\texttt{w60d\_interest\_paid} & 0.0023 & 0.0017 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The interpretation is consistent with the feature-importance results. Early repayment behaviour dominates: late-fee payments, repayment gap, principal recovery rate, first-payment timing, total paid-to-due ratio, and payment count are among the most influential predictors. Contract terms such as amount, charge, interest, and administrative fee also matter, but the 60-day repayment behaviour is more informative than static loan terms alone.
+
+\section{Limitations and Next Steps}
+
+This is a first-pass baseline modelling exercise. The main limitations are:
+
+\begin{itemize}
+    \item severe class imbalance for \textit{Written Off} and \textit{Other Terminal / Special Closure};
+    \item exclusion of active right-censored loans from the supervised classification training set;
+    \item use of random forest rather than a tuned gradient boosting model due to local package availability;
+    \item approximate SHAP analysis based on a sampled test set and top-ranked features.
+\end{itemize}
+
+Recommended next steps are:
+
+\begin{enumerate}
+    \item train a gradient boosting model such as LightGBM, XGBoost, or CatBoost once available;
+    \item consider merging very rare terminal classes or modelling bad outcomes as a separate binary risk target;
+    \item add calibration checks for predicted probabilities;
+    \item evaluate models on a time-based split, using earlier loans for training and later loans for testing;
+    \item extend the framework to survival or competing-risks models to use censored active loans directly.
+\end{enumerate}
+
+\end{document}

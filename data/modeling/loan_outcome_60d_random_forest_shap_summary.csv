@@ -1,0 +1,101 @@
+"feature","class","mean_shap","mean_abs_shap"
+"w60d_principal_recovery_rate","Clean Paid Off",-0.0224142156862745,0.0494803921568627
+"w60d_days_to_first_payment","Clean Paid Off",-0.00189583333333333,0.0478198529411765
+"w60d_late_fee_paid","Clean Paid Off",-0.0470968137254902,0.0470968137254902
+"customer_category_id","Clean Paid Off",-0.0434754901960784,0.0437990196078431
+"w60d_total_paid_to_due_ratio","Clean Paid Off",-0.0426372549019608,0.0426372549019608
+"w60d_payment_gap","Clean Paid Off",-0.0372928921568627,0.0407512254901961
+"w60d_principal_paid","Clean Paid Off",-0.0114191176470588,0.0258529411764706
+"w60d_payment_total","Clean Paid Off",-0.00836151960784313,0.0251825980392157
+"w60d_payment_count","Clean Paid Off",-0.0204338235294118,0.0204338235294118
+"w60d_admin_fee_paid","Clean Paid Off",-0.00669362745098039,0.0184264705882353
+"w60d_interest_paid","Clean Paid Off",-0.00433210784313725,0.0159080882352941
+"w60d_days_since_last_payment","Clean Paid Off",-0.0132414215686274,0.0149007352941176
+"contract_charge_per_day","Clean Paid Off",-0.00973651960784314,0.0114914215686274
+"contract_charge_rate","Clean Paid Off",-0.00765808823529412,0.0105183823529412
+"loan_interest","Clean Paid Off",-0.00158333333333333,0.00861029411764706
+"contract_amount_per_day","Clean Paid Off",0.00550490196078432,0.00780147058823529
+"loan_charge","Clean Paid Off",-0.00615686274509804,0.0069828431372549
+"w60d_scheduled_due_interest","Clean Paid Off",-0.00400612745098039,0.00604044117647059
+"loan_amount","Clean Paid Off",-0.000768382352941173,0.00511151960784314
+"loan_administrative_fee","Clean Paid Off",0.000169117647058827,0.00457598039215686
+"loan_charge","Other Terminal / Special Closure",0.000898284313725491,0.000898284313725491
+"w60d_principal_paid","Other Terminal / Special Closure",-1.47058823529412e-05,0.000551470588235294
+"w60d_payment_total","Other Terminal / Special Closure",0.000468137254901961,0.000468137254901961
+"loan_administrative_fee","Other Terminal / Special Closure",0.000446078431372549,0.000446078431372549
+"w60d_interest_paid","Other Terminal / Special Closure",-0.000412990196078432,0.000412990196078432
+"customer_category_id","Other Terminal / Special Closure",0.000362745098039216,0.000375
+"contract_charge_rate","Other Terminal / Special Closure",-7.84313725490197e-05,0.00033578431372549
+"w60d_principal_recovery_rate","Other Terminal / Special Closure",-0.000318627450980392,0.000318627450980392
+"loan_interest","Other Terminal / Special Closure",0.000196078431372549,0.000279411764705882
+"w60d_days_since_last_payment","Other Terminal / Special Closure",-0.00010906862745098,0.000162990196078431
+"w60d_payment_gap","Other Terminal / Special Closure",2.94117647058824e-05,0.000156862745098039
+"contract_charge_per_day","Other Terminal / Special Closure",-1.83823529411765e-05,0.000155637254901961
+"w60d_admin_fee_paid","Other Terminal / Special Closure",7.47549019607843e-05,0.000118872549019608
+"w60d_total_paid_to_due_ratio","Other Terminal / Special Closure",3.67647058823532e-06,0.000106617647058824
+"w60d_scheduled_due_interest","Other Terminal / Special Closure",9.80392156862744e-06,0.000102941176470588
+"w60d_days_to_first_payment","Other Terminal / Special Closure",1.22549019607843e-05,8.08823529411765e-05
+"contract_amount_per_day","Other Terminal / Special Closure",-2.20588235294118e-05,5.14705882352941e-05
+"w60d_late_fee_paid","Other Terminal / Special Closure",-4.65686274509804e-05,4.65686274509804e-05
+"loan_amount","Other Terminal / Special Closure",3.67647058823529e-05,3.67647058823529e-05
+"w60d_payment_count","Other Terminal / Special Closure",2.69607843137255e-05,3.43137254901961e-05
+"customer_category_id","Paid Off After Delinquency",-0.0498296568627451,0.0594963235294118
+"w60d_late_fee_paid","Paid Off After Delinquency",0.0498970588235294,0.0498970588235294
+"w60d_days_to_first_payment","Paid Off After Delinquency",0.00492401960784314,0.047093137254902
+"w60d_principal_recovery_rate","Paid Off After Delinquency",0.0178933823529412,0.0408492647058823
+"w60d_total_paid_to_due_ratio","Paid Off After Delinquency",0.0345882352941176,0.0345882352941176
+"w60d_payment_gap","Paid Off After Delinquency",0.0339852941176471,0.0342573529411765
+"w60d_principal_paid","Paid Off After Delinquency",0.00412867647058823,0.0181629901960784
+"w60d_days_since_last_payment","Paid Off After Delinquency",0.0158321078431373,0.0167928921568627
+"w60d_payment_total","Paid Off After Delinquency",-0.00376838235294118,0.016390931372549
+"w60d_payment_count","Paid Off After Delinquency",0.0158100490196078,0.0160012254901961
+"contract_charge_per_day","Paid Off After Delinquency",0.0122830882352941,0.0144154411764706
+"w60d_admin_fee_paid","Paid Off After Delinquency",0.000650735294117644,0.0131458333333333
+"w60d_interest_paid","Paid Off After Delinquency",-0.00151593137254902,0.0120723039215686
+"loan_interest","Paid Off After Delinquency",0.000947303921568625,0.0113345588235294
+"contract_charge_rate","Paid Off After Delinquency",0.00592892156862745,0.0110269607843137
+"contract_amount_per_day","Paid Off After Delinquency",-0.00494975490196079,0.00822916666666667
+"w60d_scheduled_due_interest","Paid Off After Delinquency",0.00564583333333333,0.00799877450980392
+"loan_charge","Paid Off After Delinquency",0.00506985294117647,0.00603063725490196
+"loan_administrative_fee","Paid Off After Delinquency",8.455882352941e-05,0.00497916666666667
+"loan_amount","Paid Off After Delinquency",0.000997549019607841,0.00487009803921569
+"customer_category_id","Sold",0.0496948529411765,0.0496948529411765
+"w60d_payment_total","Sold",0.00949754901960784,0.0116593137254902
+"w60d_payment_gap","Sold",0.00674877450980392,0.0109914215686275
+"w60d_total_paid_to_due_ratio","Sold",0.00835661764705882,0.00993995098039216
+"w60d_principal_paid","Sold",0.00779901960784314,0.00848529411764706
+"w60d_principal_recovery_rate","Sold",0.00514705882352941,0.00808333333333333
+"w60d_admin_fee_paid","Sold",0.00589705882352941,0.0065735294117647
+"w60d_interest_paid","Sold",0.00457598039215686,0.00616176470588235
+"w60d_payment_count","Sold",0.004625,0.00506617647058824
+"w60d_scheduled_due_interest","Sold",-0.000910539215686274,0.00362867647058824
+"w60d_days_to_first_payment","Sold",0.000676470588235294,0.00332598039215686
+"contract_charge_rate","Sold",0.000649509803921569,0.0032671568627451
+"contract_charge_per_day","Sold",-0.00181617647058824,0.00277450980392157
+"loan_interest","Sold",-0.000857843137254902,0.00237254901960784
+"loan_amount","Sold",-0.000303921568627451,0.00216911764705882
+"w60d_days_since_last_payment","Sold",-0.00132475490196078,0.00212622549019608
+"w60d_late_fee_paid","Sold",0.000754901960784314,0.00177450980392157
+"loan_charge","Sold",-5e-04,0.00146323529411765
+"contract_amount_per_day","Sold",-0.000323529411764706,0.00143872549019608
+"loan_administrative_fee","Sold",-0.000297794117647059,0.00123897058823529
+"customer_category_id","Written Off",0.0432475490196078,0.0432475490196078
+"w60d_days_to_first_payment","Written Off",-0.00371691176470588,0.00375612745098039
+"w60d_late_fee_paid","Written Off",-0.00350857843137255,0.00350857843137255
+"w60d_payment_gap","Written Off",-0.00347058823529412,0.00349754901960784
+"contract_charge_per_day","Written Off",-0.000712009803921569,0.00271446078431373
+"w60d_interest_paid","Written Off",0.00168504901960784,0.00226102941176471
+"w60d_payment_total","Written Off",0.00216421568627451,0.00222303921568628
+"loan_interest","Written Off",0.00129779411764706,0.00213357843137255
+"contract_charge_rate","Written Off",0.00115808823529412,0.00166053921568627
+"w60d_total_paid_to_due_ratio","Written Off",-0.000311274509803921,0.00120098039215686
+"w60d_days_since_last_payment","Written Off",-0.00115686274509804,0.00117647058823529
+"w60d_principal_recovery_rate","Written Off",-0.000307598039215687,0.00116299019607843
+"loan_amount","Written Off",3.79901960784311e-05,0.00115808823529412
+"contract_amount_per_day","Written Off",-0.000209558823529412,0.00115563725490196
+"loan_charge","Written Off",0.000688725490196079,0.0011078431372549
+"w60d_scheduled_due_interest","Written Off",-0.000738970588235294,0.000984068627450981
+"w60d_admin_fee_paid","Written Off",7.1078431372549e-05,0.000916666666666667
+"loan_administrative_fee","Written Off",-0.000401960784313726,0.000781862745098039
+"w60d_principal_paid","Written Off",-0.000493872549019608,0.000712009803921569
+"w60d_payment_count","Written Off",-2.8186274509804e-05,0.000349264705882353

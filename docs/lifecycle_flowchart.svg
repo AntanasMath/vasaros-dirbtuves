@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1580" height="940" viewBox="0 0 1580 940">
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#516070"/>
+</marker>
+</defs>
+<rect width="1580" height="940" fill="#f7f8fb"/>
+<text x="38" y="42" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="800" fill="#172033">Loan Application Lifecycle Flow</text>
+<text x="38" y="70" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="400" fill="#556070">Counts start from the 50 selected example customers. Timestamp/date fields are marked with [time].</text>
+<text x="1220" y="70" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#172033">selected examples n=50</text>
+<rect x="40" y="120" width="245" height="150" rx="8" fill="#e9f2ff" stroke="#243047" stroke-width="1.2"/>
+<text x="54" y="145" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Sample customers (n=50)</text>
+<text x="54" y="168" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Action: sample customers</text>
+<text x="54" y="186" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Table: export_customers.csv</text>
+<text x="54" y="204" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Fields: customer_id</text>
+<text x="54" y="222" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">created [time], modified [time]</text>
+<text x="54" y="240" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">age, gender, category_id</text>
+<rect x="345" y="120" width="285" height="150" rx="8" fill="#fff4df" stroke="#243047" stroke-width="1.2"/>
+<text x="359" y="145" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Loan application observed (n=39)</text>
+<text x="359" y="168" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Action: loan application</text>
+<text x="359" y="186" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Rejected path table:</text>
+<text x="359" y="204" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">export_credits_rejected.csv</text>
+<text x="359" y="222" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Fields: created [time], amount, period</text>
+<text x="359" y="240" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Accepted path: export_credits.created [time]</text>
+<rect x="345" y="335" width="285" height="130" rx="8" fill="#edf1f7" stroke="#243047" stroke-width="1.2"/>
+<text x="359" y="360" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">No application evidence (n=11)</text>
+<text x="359" y="383" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Action: no linked loan event</text>
+<text x="359" y="401" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Tables scanned by customer_id</text>
+<text x="359" y="419" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">No rows in credits or rejected</text>
+<text x="359" y="437" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Useful as profile-only customers</text>
+<rect x="700" y="60" width="300" height="155" rx="8" fill="#ffe7e7" stroke="#243047" stroke-width="1.2"/>
+<text x="714" y="85" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Rejected after assessment (n=11)</text>
+<text x="714" y="108" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Action: credit assessment -&gt; reject</text>
+<text x="714" y="126" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Table: export_credits_rejected.csv</text>
+<text x="714" y="144" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Fields: rejection_date [time]</text>
+<text x="714" y="162" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">reason, admin_name, amount, period</text>
+<text x="714" y="180" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Join: customer_id</text>
+<rect x="700" y="270" width="300" height="170" rx="8" fill="#e9f8ef" stroke="#243047" stroke-width="1.2"/>
+<text x="714" y="295" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Credit issued / accepted (n=28)</text>
+<text x="714" y="318" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Action: approve and issue credit</text>
+<text x="714" y="336" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Table: export_credits.csv</text>
+<text x="714" y="354" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Fields: id, customer_id, amount, period</text>
+<text x="714" y="372" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">created [time], registered [time]</text>
+<text x="714" y="390" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">expire [time], paid [time]</text>
+<text x="714" y="408" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Join to decisions: id -&gt; credit_id</text>
+<rect x="1060" y="80" width="310" height="145" rx="8" fill="#f0ecff" stroke="#243047" stroke-width="1.2"/>
+<text x="1074" y="105" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Credit assessment details</text>
+<text x="1074" y="128" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Action: approval / confirmation</text>
+<text x="1074" y="146" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Table: export_credits_decisions.csv</text>
+<text x="1074" y="164" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Fields: credit_id</text>
+<text x="1074" y="182" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">approve_date [time], confirm_date [time]</text>
+<text x="1074" y="200" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">decision_info, info, approver_id</text>
+<rect x="1060" y="275" width="310" height="165" rx="8" fill="#fff7e8" stroke="#243047" stroke-width="1.2"/>
+<text x="1074" y="300" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Repayment schedule</text>
+<text x="1074" y="323" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Action: planned instalments</text>
+<text x="1074" y="341" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Table: export_credits.csv</text>
+<text x="1074" y="359" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Field: schedule</text>
+<text x="1074" y="377" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Nested fields: date [time], day</text>
+<text x="1074" y="395" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">o/opening balance, amount due</text>
+<text x="1074" y="413" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">planned, not actual payment ledger</text>
+<rect x="1060" y="500" width="310" height="150" rx="8" fill="#e8f7fb" stroke="#243047" stroke-width="1.2"/>
+<text x="1074" y="525" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Post-issue monitoring</text>
+<text x="1074" y="548" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Action: track repayment status</text>
+<text x="1074" y="566" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Tables: export_credits.csv</text>
+<text x="1074" y="584" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">export_credit_ext_requests.csv</text>
+<text x="1074" y="602" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">export_creditline_paydays.csv</text>
+<text x="1074" y="620" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Fields: debt, r_debt, current_delay</text>
+<text x="1074" y="638" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">request_date/date/modified [time]</text>
+<rect x="80" y="710" width="285" height="135" rx="8" fill="#edf7ed" stroke="#243047" stroke-width="1.2"/>
+<text x="94" y="735" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Completed normally (n=11)</text>
+<text x="94" y="758" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Action: loan completed</text>
+<text x="94" y="776" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Table: export_credits.csv</text>
+<text x="94" y="794" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Fields: paid [time], debt</text>
+<text x="94" y="812" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">r_debt, max_delay, late_fee</text>
+<rect x="435" y="710" width="285" height="135" rx="8" fill="#ffe7e7" stroke="#243047" stroke-width="1.2"/>
+<text x="449" y="735" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Default / interrupted (n=5)</text>
+<text x="449" y="758" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Action: loan performance breaks</text>
+<text x="449" y="776" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Table: export_credits.csv</text>
+<text x="449" y="794" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Fields: current_delay, max_delay</text>
+<text x="449" y="812" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">r_debt, sold [time], writeoff</text>
+<rect x="790" y="710" width="285" height="135" rx="8" fill="#eef3ff" stroke="#243047" stroke-width="1.2"/>
+<text x="804" y="735" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Active and current (n=1)</text>
+<text x="804" y="758" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Action: still repaying</text>
+<text x="804" y="776" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Table: export_credits.csv</text>
+<text x="804" y="794" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Fields: paid empty, debt/r_debt</text>
+<text x="804" y="812" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">expire [time], current_delay=0</text>
+<rect x="1145" y="710" width="285" height="135" rx="8" fill="#f3eef7" stroke="#243047" stroke-width="1.2"/>
+<text x="1159" y="735" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#172033">Mixed / boundary (n=11)</text>
+<text x="1159" y="758" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Action: issued but not cleanly classified</text>
+<text x="1159" y="776" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Tables: credits + rejected history</text>
+<text x="1159" y="794" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">Fields: paid [time], max_delay</text>
+<text x="1159" y="812" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#3b4658">late_fee, rejection_date [time]</text>
+<line x1="285" y1="195" x2="345" y2="195" stroke="#516070" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="298" y="180" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#384356">n=50</text>
+<line x1="470" y1="270" x2="470" y2="335" stroke="#516070" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="485" y="310" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#384356">n=11</text>
+<line x1="630" y1="170" x2="700" y2="135" stroke="#516070" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="638" y="132" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#384356">rejected n=11</text>
+<line x1="630" y1="215" x2="700" y2="345" stroke="#516070" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="640" y="290" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#384356">accepted n=28</text>
+<line x1="1000" y1="345" x2="1060" y2="152" stroke="#516070" stroke-width="2" marker-end="url(#arrow)" stroke-dasharray="6 5"/>
+<text x="1010" y="196" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#384356">decision join</text>
+<line x1="1000" y1="355" x2="1060" y2="355" stroke="#516070" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="1008" y="340" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#384356">schedule</text>
+<line x1="1215" y1="440" x2="1215" y2="500" stroke="#516070" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="1230" y="475" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#384356">monitor</text>
+<line x1="1140" y1="650" x2="225" y2="710" stroke="#516070" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="235" y="690" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#384356">n=11</text>
+<line x1="1205" y1="650" x2="575" y2="710" stroke="#516070" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="585" y="690" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#384356">n=5</text>
+<line x1="1270" y1="650" x2="930" y2="710" stroke="#516070" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="940" y="690" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#384356">n=1</text>
+<line x1="1335" y1="650" x2="1285" y2="710" stroke="#516070" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="1295" y="690" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#384356">n=11</text>
+</svg>
